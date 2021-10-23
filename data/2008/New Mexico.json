@@ -1,0 +1,52 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 2,
+            "votes": 346832,
+            "extra_votes": 14770,
+            "extra_seat": false
+        },
+        {
+            "name": "NLP",
+            "seats": 0,
+            "votes": 5327,
+            "extra_votes": 5327,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 2428,
+            "extra_votes": 2428,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 1597,
+            "extra_votes": 1597,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 1552,
+            "extra_votes": 1552,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 3,
+            "votes": 472422,
+            "extra_votes": 140360,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "New Mexico 2008",
+        "total_seats": 5,
+        "total_votes": 830158,
+        "gallagher_index": 2.578556075558432
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 4,
+            "votes": 582377,
+            "extra_votes": 44605,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 2336,
+            "extra_votes": 2336,
+            "extra_seat": false
+        },
+        {
+            "name": "Workers World",
+            "seats": 0,
+            "votes": 1169,
+            "extra_votes": 1169,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 1032,
+            "extra_votes": 1032,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Larouche, Lyndon, Jr.",
+            "seats": 0,
+            "votes": 1001,
+            "extra_votes": 1001,
+            "extra_seat": false
+        },
+        {
+            "name": "Populist",
+            "seats": 0,
+            "votes": 641,
+            "extra_votes": 641,
+            "extra_seat": false
+        },
+        {
+            "name": "Alliance",
+            "seats": 0,
+            "votes": 356,
+            "extra_votes": 356,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 3,
+            "votes": 352192,
+            "extra_votes": 83306,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Mississippi 1984",
+        "total_seats": 7,
+        "total_votes": 941104,
+        "gallagher_index": 5.1037152386861875
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "parties": [
+        {
+            "name": "Independent - McCarthy, Eugene",
+            "seats": 0,
+            "votes": 19158,
+            "extra_votes": 19158,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 12,
+            "votes": 2194944,
+            "extra_votes": 17544,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 12051,
+            "extra_votes": 12051,
+            "extra_seat": false
+        },
+        {
+            "name": "New Alliance",
+            "seats": 0,
+            "votes": 4379,
+            "extra_votes": 4379,
+            "extra_seat": false
+        },
+        {
+            "name": "Populist",
+            "seats": 0,
+            "votes": 3444,
+            "extra_votes": 3444,
+            "extra_seat": false
+        },
+        {
+            "name": "Workers League",
+            "seats": 0,
+            "votes": 2188,
+            "extra_votes": 2188,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 13,
+            "votes": 2300087,
+            "extra_votes": 122687,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Pennsylvania 1988",
+        "total_seats": 25,
+        "total_votes": 4536251,
+        "gallagher_index": 1.0232375703032661
+    }
+}

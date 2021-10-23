@@ -1,0 +1,66 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 2,
+            "votes": 295497,
+            "extra_votes": 36249,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 10680,
+            "extra_votes": 10680,
+            "extra_seat": false
+        },
+        {
+            "name": "Reform",
+            "seats": 0,
+            "votes": 3169,
+            "extra_votes": 3169,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 1912,
+            "extra_votes": 1912,
+            "extra_seat": false
+        },
+        {
+            "name": "Natural Law",
+            "seats": 0,
+            "votes": 367,
+            "extra_votes": 367,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 23,
+            "extra_votes": 23,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 336475,
+            "extra_votes": 77227,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "West Virginia 2000",
+        "total_seats": 5,
+        "total_votes": 648124,
+        "gallagher_index": 7.059965843726163
+    }
+}

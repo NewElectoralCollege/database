@@ -1,0 +1,38 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 5,
+            "votes": 890167,
+            "extra_votes": 69257,
+            "extra_seat": false
+        },
+        {
+            "name": "New Alliance",
+            "seats": 0,
+            "votes": 5682,
+            "extra_votes": 5682,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 1263,
+            "extra_votes": 1263,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 8,
+            "votes": 1237258,
+            "extra_votes": 87984,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "North Carolina 1988",
+        "total_seats": 13,
+        "total_votes": 2134370,
+        "gallagher_index": 3.4167951746686787
+    }
+}

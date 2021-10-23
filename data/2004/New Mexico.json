@@ -1,0 +1,52 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 2,
+            "votes": 370942,
+            "extra_votes": 68422,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 4053,
+            "extra_votes": 4053,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 2382,
+            "extra_votes": 2382,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 1226,
+            "extra_votes": 1226,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 771,
+            "extra_votes": 771,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 376930,
+            "extra_votes": 74410,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "New Mexico 2004",
+        "total_seats": 5,
+        "total_votes": 756304,
+        "gallagher_index": 9.63127907846815
+    }
+}

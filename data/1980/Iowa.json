@@ -1,0 +1,87 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 4,
+            "votes": 676026,
+            "extra_votes": 17198,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 3,
+            "votes": 508672,
+            "extra_votes": 14551,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 13123,
+            "extra_votes": 13123,
+            "extra_seat": false
+        },
+        {
+            "name": "Citizens",
+            "seats": 0,
+            "votes": 2273,
+            "extra_votes": 2273,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Party USA",
+            "seats": 0,
+            "votes": 534,
+            "extra_votes": 534,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 519,
+            "extra_votes": 519,
+            "extra_seat": false
+        },
+        {
+            "name": "Communist",
+            "seats": 0,
+            "votes": 298,
+            "extra_votes": 298,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 244,
+            "extra_votes": 244,
+            "extra_seat": false
+        },
+        {
+            "name": "American",
+            "seats": 0,
+            "votes": 189,
+            "extra_votes": 189,
+            "extra_seat": false
+        },
+        {
+            "name": "Statesman",
+            "seats": 0,
+            "votes": 150,
+            "extra_votes": 150,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Anderson, John B.",
+            "seats": 1,
+            "votes": 115633,
+            "extra_votes": 115633,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Iowa 1980",
+        "total_seats": 8,
+        "total_votes": 1317661,
+        "gallagher_index": 2.9848943149798655
+    }
+}

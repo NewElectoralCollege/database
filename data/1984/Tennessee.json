@@ -1,0 +1,80 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 6,
+            "votes": 990212,
+            "extra_votes": 56402,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 3072,
+            "extra_votes": 3072,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Larouche, Lyndon, Jr.",
+            "seats": 0,
+            "votes": 1852,
+            "extra_votes": 1852,
+            "extra_seat": false
+        },
+        {
+            "name": "Populist",
+            "seats": 0,
+            "votes": 1763,
+            "extra_votes": 1763,
+            "extra_seat": false
+        },
+        {
+            "name": "Communist",
+            "seats": 0,
+            "votes": 1036,
+            "extra_votes": 1036,
+            "extra_seat": false
+        },
+        {
+            "name": "Citizens",
+            "seats": 0,
+            "votes": 978,
+            "extra_votes": 978,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 715,
+            "extra_votes": 715,
+            "extra_seat": false
+        },
+        {
+            "name": "Alliance",
+            "seats": 0,
+            "votes": 524,
+            "extra_votes": 524,
+            "extra_seat": false
+        },
+        {
+            "name": "",
+            "seats": 0,
+            "votes": 127,
+            "extra_votes": 127,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 5,
+            "votes": 711714,
+            "extra_votes": 89174,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Tennessee 1984",
+        "total_seats": 11,
+        "total_votes": 1711993,
+        "gallagher_index": 3.6047601274208523
+    }
+}

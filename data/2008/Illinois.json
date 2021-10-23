@@ -1,0 +1,87 @@
+{
+    "parties": [
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 30948,
+            "extra_votes": 30948,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 19642,
+            "extra_votes": 19642,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 11838,
+            "extra_votes": 11838,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 8256,
+            "extra_votes": 8256,
+            "extra_seat": false
+        },
+        {
+            "name": "NB",
+            "seats": 0,
+            "votes": 1149,
+            "extra_votes": 1149,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 13,
+            "votes": 3419348,
+            "extra_votes": 738,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 4,
+            "extra_votes": 4,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 3,
+            "extra_votes": 3,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 3,
+            "extra_votes": 3,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 8,
+            "votes": 2031179,
+            "extra_votes": 190389,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Illinois 2008",
+        "total_seats": 21,
+        "total_votes": 5522371,
+        "gallagher_index": 1.0575700706556777
+    }
+}

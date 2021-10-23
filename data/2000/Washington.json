@@ -1,0 +1,80 @@
+{
+    "parties": [
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 103002,
+            "extra_votes": 103002,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 13135,
+            "extra_votes": 13135,
+            "extra_seat": false
+        },
+        {
+            "name": "Reform",
+            "seats": 0,
+            "votes": 7171,
+            "extra_votes": 7171,
+            "extra_seat": false
+        },
+        {
+            "name": "Natural Law",
+            "seats": 0,
+            "votes": 2927,
+            "extra_votes": 2927,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 1989,
+            "extra_votes": 1989,
+            "extra_seat": false
+        },
+        {
+            "name": "Worker's World",
+            "seats": 0,
+            "votes": 1729,
+            "extra_votes": 1729,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist",
+            "seats": 0,
+            "votes": 660,
+            "extra_votes": 660,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 304,
+            "extra_votes": 304,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 5,
+            "votes": 1108864,
+            "extra_votes": 204344,
+            "extra_seat": true
+        },
+        {
+            "name": "Democratic",
+            "seats": 6,
+            "votes": 1247652,
+            "extra_votes": 117002,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Washington 2000",
+        "total_seats": 11,
+        "total_votes": 2487433,
+        "gallagher_index": 4.333010339766125
+    }
+}

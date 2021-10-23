@@ -1,0 +1,87 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 50165,
+            "extra_votes": 50165,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 40771,
+            "extra_votes": 40771,
+            "extra_seat": false
+        },
+        {
+            "name": "Peace and Freedom",
+            "seats": 0,
+            "votes": 27607,
+            "extra_votes": 27607,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 26645,
+            "extra_votes": 26645,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 21213,
+            "extra_votes": 21213,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 82,
+            "extra_votes": 82,
+            "extra_seat": false
+        },
+        {
+            "name": "Worker's World",
+            "seats": 0,
+            "votes": 49,
+            "extra_votes": 49,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 8,
+            "extra_votes": 8,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 30,
+            "votes": 6745485,
+            "extra_votes": 195806,
+            "extra_seat": true
+        },
+        {
+            "name": "Republican",
+            "seats": 25,
+            "votes": 5509826,
+            "extra_votes": 89402,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "California 2004",
+        "total_seats": 55,
+        "total_votes": 12421852,
+        "gallagher_index": 0.9113120060865371
+    }
+}

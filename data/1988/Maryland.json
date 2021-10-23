@@ -1,0 +1,45 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 5,
+            "votes": 876167,
+            "extra_votes": 18992,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 6748,
+            "extra_votes": 6748,
+            "extra_seat": false
+        },
+        {
+            "name": "New Alliance",
+            "seats": 0,
+            "votes": 5115,
+            "extra_votes": 5115,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 24,
+            "extra_votes": 24,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 5,
+            "votes": 826304,
+            "extra_votes": 140564,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Maryland 1988",
+        "total_seats": 10,
+        "total_votes": 1714358,
+        "gallagher_index": 1.5352820452379023
+    }
+}

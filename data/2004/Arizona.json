@@ -1,0 +1,45 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 4,
+            "votes": 893524,
+            "extra_votes": 88492,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 11856,
+            "extra_votes": 11856,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 2773,
+            "extra_votes": 2773,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 138,
+            "extra_votes": 138,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 6,
+            "votes": 1104294,
+            "extra_votes": 98004,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Arizona 2004",
+        "total_seats": 10,
+        "total_votes": 2012585,
+        "gallagher_index": 4.796921319487047
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 712586,
+            "extra_votes": 117935,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 7499,
+            "extra_votes": 7499,
+            "extra_seat": false
+        },
+        {
+            "name": "Liberty, Ecology, Community",
+            "seats": 0,
+            "votes": 4719,
+            "extra_votes": 4719,
+            "extra_seat": false
+        },
+        {
+            "name": "U.S. Taxpayers",
+            "seats": 0,
+            "votes": 3366,
+            "extra_votes": 3366,
+            "extra_seat": false
+        },
+        {
+            "name": "Natural Law",
+            "seats": 0,
+            "votes": 2981,
+            "extra_votes": 2981,
+            "extra_seat": false
+        },
+        {
+            "name": "Workers World",
+            "seats": 0,
+            "votes": 1678,
+            "extra_votes": 1678,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 5,
+            "votes": 927837,
+            "extra_votes": 134969,
+            "extra_seat": true
+        },
+        {
+            "name": "Reform",
+            "seats": 1,
+            "votes": 123293,
+            "extra_votes": 123293,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Louisiana 1996",
+        "total_seats": 9,
+        "total_votes": 1783959,
+        "gallagher_index": 6.092259159365786
+    }
+}

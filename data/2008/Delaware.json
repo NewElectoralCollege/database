@@ -1,0 +1,59 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 1,
+            "votes": 152374,
+            "extra_votes": 14904,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Nader, Ralph",
+            "seats": 0,
+            "votes": 2401,
+            "extra_votes": 2401,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 1109,
+            "extra_votes": 1109,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 626,
+            "extra_votes": 626,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 385,
+            "extra_votes": 385,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 58,
+            "extra_votes": 58,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 2,
+            "votes": 255459,
+            "extra_votes": 117989,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Delaware 2008",
+        "total_seats": 3,
+        "total_votes": 412412,
+        "gallagher_index": 4.23191361489822
+    }
+}

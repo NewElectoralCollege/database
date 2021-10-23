@@ -1,0 +1,66 @@
+{
+    "parties": [
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 107805,
+            "extra_votes": 107805,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 6,
+            "votes": 1742718,
+            "extra_votes": 84210,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 58417,
+            "extra_votes": 58417,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 17623,
+            "extra_votes": 17623,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 4307,
+            "extra_votes": 4307,
+            "extra_seat": false
+        },
+        {
+            "name": "Party for Socialism and Liberation",
+            "seats": 0,
+            "votes": 3523,
+            "extra_votes": 3523,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 1,
+            "votes": 160879,
+            "extra_votes": 160879,
+            "extra_seat": true
+        },
+        {
+            "name": "Republican",
+            "seats": 5,
+            "votes": 1221747,
+            "extra_votes": 116075,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Washington 2016",
+        "total_seats": 12,
+        "total_votes": 3317019,
+        "gallagher_index": 5.287723377741828
+    }
+}

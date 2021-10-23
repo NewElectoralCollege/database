@@ -1,0 +1,73 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 49033,
+            "extra_votes": 49033,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 10,
+            "votes": 1752414,
+            "extra_votes": 38974,
+            "extra_seat": false
+        },
+        {
+            "name": "Citizens",
+            "seats": 0,
+            "votes": 8564,
+            "extra_votes": 8564,
+            "extra_seat": false
+        },
+        {
+            "name": "Communist",
+            "seats": 0,
+            "votes": 4729,
+            "extra_votes": 4729,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 4029,
+            "extra_votes": 4029,
+            "extra_seat": false
+        },
+        {
+            "name": "Workers World",
+            "seats": 0,
+            "votes": 3790,
+            "extra_votes": 3790,
+            "extra_seat": false
+        },
+        {
+            "name": "Statesman",
+            "seats": 0,
+            "votes": 27,
+            "extra_votes": 27,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 13,
+            "votes": 2206545,
+            "extra_votes": 150417,
+            "extra_seat": true
+        },
+        {
+            "name": "Independent - Anderson, John B.",
+            "seats": 2,
+            "votes": 254472,
+            "extra_votes": 83128,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Ohio 1980",
+        "total_seats": 25,
+        "total_votes": 4283603,
+        "gallagher_index": 1.828477832261122
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "parties": [
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 79341,
+            "extra_votes": 79341,
+            "extra_seat": false
+        },
+        {
+            "name": "Peace and Freedom",
+            "seats": 0,
+            "votes": 66101,
+            "extra_votes": 66101,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - McMullin, Evan ",
+            "seats": 0,
+            "votes": 39596,
+            "extra_votes": 39596,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 1,
+            "votes": 278658,
+            "extra_votes": 20811,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 1316,
+            "extra_votes": 1316,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 402,
+            "extra_votes": 402,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Equality",
+            "seats": 0,
+            "votes": 84,
+            "extra_votes": 84,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 34,
+            "votes": 8753792,
+            "extra_votes": 244841,
+            "extra_seat": true
+        },
+        {
+            "name": "Libertarian",
+            "seats": 2,
+            "votes": 478500,
+            "extra_votes": 220653,
+            "extra_seat": true
+        },
+        {
+            "name": "Republican",
+            "seats": 18,
+            "votes": 4483814,
+            "extra_votes": 100415,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "California 2016",
+        "total_seats": 55,
+        "total_votes": 14181604,
+        "gallagher_index": 0.9847594555086063
+    }
+}

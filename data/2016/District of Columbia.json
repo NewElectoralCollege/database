@@ -1,0 +1,45 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 0,
+            "votes": 12723,
+            "extra_votes": 12723,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 6551,
+            "extra_votes": 6551,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 4906,
+            "extra_votes": 4906,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 4258,
+            "extra_votes": 4258,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 3,
+            "votes": 282830,
+            "extra_votes": 75318,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "District of Columbia 2016",
+        "total_seats": 3,
+        "total_votes": 311268,
+        "gallagher_index": 7.381128344878138
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "parties": [
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 4479,
+            "extra_votes": 4479,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 2,
+            "votes": 340511,
+            "extra_votes": 1643,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 538,
+            "extra_votes": 538,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 372,
+            "extra_votes": 372,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 357,
+            "extra_votes": 357,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 161,
+            "extra_votes": 161,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 42,
+            "extra_votes": 42,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 14,
+            "extra_votes": 14,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 14,
+            "extra_votes": 14,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 8,
+            "extra_votes": 8,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 5,
+            "extra_votes": 5,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 2,
+            "votes": 331237,
+            "extra_votes": 161803,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "New Hampshire 2004",
+        "total_seats": 4,
+        "total_votes": 677738,
+        "gallagher_index": 0.9424049645335062
+    }
+}

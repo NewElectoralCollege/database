@@ -1,0 +1,129 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 4,
+            "votes": 1185243,
+            "extra_votes": 43235,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 35545,
+            "extra_votes": 35545,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 7508,
+            "extra_votes": 7508,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 6234,
+            "extra_votes": 6234,
+            "extra_seat": false
+        },
+        {
+            "name": "Peace and Freedom",
+            "seats": 0,
+            "votes": 5059,
+            "extra_votes": 5059,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 2589,
+            "extra_votes": 2589,
+            "extra_seat": false
+        },
+        {
+            "name": "Justice",
+            "seats": 0,
+            "votes": 1260,
+            "extra_votes": 1260,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 792,
+            "extra_votes": 792,
+            "extra_seat": false
+        },
+        {
+            "name": "America's",
+            "seats": 0,
+            "votes": 679,
+            "extra_votes": 679,
+            "extra_seat": false
+        },
+        {
+            "name": "Party for Socialism and Liberation",
+            "seats": 0,
+            "votes": 317,
+            "extra_votes": 317,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist",
+            "seats": 0,
+            "votes": 308,
+            "extra_votes": 308,
+            "extra_seat": false
+        },
+        {
+            "name": "American Third Position",
+            "seats": 0,
+            "votes": 266,
+            "extra_votes": 266,
+            "extra_seat": false
+        },
+        {
+            "name": "Objectivist",
+            "seats": 0,
+            "votes": 235,
+            "extra_votes": 235,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 192,
+            "extra_votes": 192,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Equality",
+            "seats": 0,
+            "votes": 189,
+            "extra_votes": 189,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 4,
+            "extra_votes": 4,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 5,
+            "votes": 1323102,
+            "extra_votes": 181094,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Colorado 2012",
+        "total_seats": 9,
+        "total_votes": 2569522,
+        "gallagher_index": 3.275183352052376
+    }
+}

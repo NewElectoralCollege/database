@@ -1,0 +1,45 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 49951,
+            "extra_votes": 49951,
+            "extra_seat": false
+        },
+        {
+            "name": "Populist",
+            "seats": 0,
+            "votes": 39265,
+            "extra_votes": 39265,
+            "extra_seat": false
+        },
+        {
+            "name": "Citizens",
+            "seats": 0,
+            "votes": 26297,
+            "extra_votes": 26297,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 27,
+            "votes": 5467009,
+            "extra_votes": 6691,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 20,
+            "votes": 3922519,
+            "extra_votes": 80073,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "California 1984",
+        "total_seats": 47,
+        "total_votes": 9505041,
+        "gallagher_index": 1.0441687254088823
+    }
+}

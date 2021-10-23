@@ -1,0 +1,80 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 32100,
+            "extra_votes": 32100,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 7816,
+            "extra_votes": 7816,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 289,
+            "extra_votes": 289,
+            "extra_seat": false
+        },
+        {
+            "name": "Justice",
+            "seats": 0,
+            "votes": 119,
+            "extra_votes": 119,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 17,
+            "extra_votes": 17,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 14,
+            "extra_votes": 14,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 7,
+            "extra_votes": 7,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 6,
+            "extra_votes": 6,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 5,
+            "votes": 1025232,
+            "extra_votes": 189140,
+            "extra_seat": true
+        },
+        {
+            "name": "Republican",
+            "seats": 6,
+            "votes": 1233654,
+            "extra_votes": 188539,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Arizona 2012",
+        "total_seats": 11,
+        "total_votes": 2299254,
+        "gallagher_index": 1.3428392523180208
+    }
+}

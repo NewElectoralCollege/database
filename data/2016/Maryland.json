@@ -1,0 +1,381 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 79605,
+            "extra_votes": 79605,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 35945,
+            "extra_votes": 35945,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 33263,
+            "extra_votes": 33263,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - McMullin, Evan",
+            "seats": 0,
+            "votes": 9630,
+            "extra_votes": 9630,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 6,
+            "votes": 1677928,
+            "extra_votes": 9064,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 566,
+            "extra_votes": 566,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 504,
+            "extra_votes": 504,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 97,
+            "extra_votes": 97,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 73,
+            "extra_votes": 73,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 53,
+            "extra_votes": 53,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 53,
+            "extra_votes": 53,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 51,
+            "extra_votes": 51,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 48,
+            "extra_votes": 48,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 44,
+            "extra_votes": 44,
+            "extra_seat": false
+        },
+        {
+            "name": "America's",
+            "seats": 0,
+            "votes": 42,
+            "extra_votes": 42,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 36,
+            "extra_votes": 36,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 25,
+            "extra_votes": 25,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 24,
+            "extra_votes": 24,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 20,
+            "extra_votes": 20,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 18,
+            "extra_votes": 18,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 18,
+            "extra_votes": 18,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 17,
+            "extra_votes": 17,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 16,
+            "extra_votes": 16,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 15,
+            "extra_votes": 15,
+            "extra_seat": false
+        },
+        {
+            "name": "American Delta",
+            "seats": 0,
+            "votes": 14,
+            "extra_votes": 14,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 13,
+            "extra_votes": 13,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 13,
+            "extra_votes": 13,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 12,
+            "extra_votes": 12,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Equality",
+            "seats": 0,
+            "votes": 11,
+            "extra_votes": 11,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 11,
+            "extra_votes": 11,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 11,
+            "extra_votes": 11,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 10,
+            "extra_votes": 10,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 10,
+            "extra_votes": 10,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 9,
+            "extra_votes": 9,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 9,
+            "extra_votes": 9,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 7,
+            "extra_votes": 7,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 7,
+            "extra_votes": 7,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 7,
+            "extra_votes": 7,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist",
+            "seats": 0,
+            "votes": 6,
+            "extra_votes": 6,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 6,
+            "extra_votes": 6,
+            "extra_seat": false
+        },
+        {
+            "name": "Prohibition",
+            "seats": 0,
+            "votes": 5,
+            "extra_votes": 5,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 5,
+            "extra_votes": 5,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 4,
+            "extra_votes": 4,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 4,
+            "extra_votes": 4,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 3,
+            "extra_votes": 3,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 2,
+            "extra_votes": 2,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 2,
+            "extra_votes": 2,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 4,
+            "votes": 943169,
+            "extra_votes": 108737,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Maryland 2016",
+        "total_seats": 10,
+        "total_votes": 2781446,
+        "gallagher_index": 4.930243765398618
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 1,
+            "votes": 182110,
+            "extra_votes": 46806,
+            "extra_seat": false
+        },
+        {
+            "name": "American",
+            "seats": 0,
+            "votes": 13304,
+            "extra_votes": 13304,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - McCarthy, Eugene",
+            "seats": 0,
+            "votes": 3907,
+            "extra_votes": 3907,
+            "extra_seat": false
+        },
+        {
+            "name": "Liberal",
+            "seats": 0,
+            "votes": 2438,
+            "extra_votes": 2438,
+            "extra_seat": false
+        },
+        {
+            "name": "Concerned Citizens",
+            "seats": 0,
+            "votes": 1162,
+            "extra_votes": 1162,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 268,
+            "extra_votes": 268,
+            "extra_seat": false
+        },
+        {
+            "name": "Communist",
+            "seats": 0,
+            "votes": 121,
+            "extra_votes": 121,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 337908,
+            "extra_votes": 67300,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Utah 1976",
+        "total_seats": 4,
+        "total_votes": 541218,
+        "gallagher_index": 10.942865971975388
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 4,
+            "votes": 1143711,
+            "extra_votes": 33223,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 29877,
+            "extra_votes": 29877,
+            "extra_seat": false
+        },
+        {
+            "name": "The Birthday Party",
+            "seats": 0,
+            "votes": 10279,
+            "extra_votes": 10279,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 5365,
+            "extra_votes": 5365,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 4545,
+            "extra_votes": 4545,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 2576,
+            "extra_votes": 2576,
+            "extra_seat": false
+        },
+        {
+            "name": "Party for Socialism and Liberation",
+            "seats": 0,
+            "votes": 2301,
+            "extra_votes": 2301,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - De La Fuente, Roque \"\"Rocky\"\"",
+            "seats": 0,
+            "votes": 1860,
+            "extra_votes": 1860,
+            "extra_seat": false
+        },
+        {
+            "name": "American Solidarity",
+            "seats": 0,
+            "votes": 762,
+            "extra_votes": 762,
+            "extra_seat": false
+        },
+        {
+            "name": "Becoming One Nation",
+            "seats": 0,
+            "votes": 68,
+            "extra_votes": 68,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Hoefling, Tom",
+            "seats": 0,
+            "votes": 31,
+            "extra_votes": 31,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Boddie, R. President",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 7,
+            "votes": 1852475,
+            "extra_votes": 186743,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Tennessee 2020",
+        "total_seats": 11,
+        "total_votes": 3053851,
+        "gallagher_index": 2.364410909547844
+    }
+}

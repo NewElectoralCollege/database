@@ -1,0 +1,73 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 3,
+            "votes": 620258,
+            "extra_votes": 91370,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 6550,
+            "extra_votes": 6550,
+            "extra_seat": false
+        },
+        {
+            "name": "Natural Law",
+            "seats": 0,
+            "votes": 3349,
+            "extra_votes": 3349,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 2315,
+            "extra_votes": 2315,
+            "extra_seat": false
+        },
+        {
+            "name": "U.S. Taxpayers",
+            "seats": 0,
+            "votes": 2229,
+            "extra_votes": 2229,
+            "extra_seat": false
+        },
+        {
+            "name": "",
+            "seats": 0,
+            "votes": 1240,
+            "extra_votes": 1240,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 331,
+            "extra_votes": 331,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 492644,
+            "extra_votes": 140052,
+            "extra_seat": true
+        },
+        {
+            "name": "Reform",
+            "seats": 1,
+            "votes": 105159,
+            "extra_votes": 105159,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Iowa 1996",
+        "total_seats": 7,
+        "total_votes": 1234075,
+        "gallagher_index": 6.967978879268246
+    }
+}

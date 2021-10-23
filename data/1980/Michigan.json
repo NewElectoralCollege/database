@@ -1,0 +1,59 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 10,
+            "votes": 1915225,
+            "extra_votes": 53455,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 41597,
+            "extra_votes": 41597,
+            "extra_seat": false
+        },
+        {
+            "name": "Citizens",
+            "seats": 0,
+            "votes": 11930,
+            "extra_votes": 11930,
+            "extra_seat": false
+        },
+        {
+            "name": "Communist",
+            "seats": 0,
+            "votes": 3262,
+            "extra_votes": 3262,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 956,
+            "extra_votes": 956,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 9,
+            "votes": 1661532,
+            "extra_votes": 172116,
+            "extra_seat": true
+        },
+        {
+            "name": "Independent - Anderson, John B.",
+            "seats": 2,
+            "votes": 275223,
+            "extra_votes": 89046,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Michigan 1980",
+        "total_seats": 21,
+        "total_votes": 3909725,
+        "gallagher_index": 2.1683115022214845
+    }
+}

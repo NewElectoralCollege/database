@@ -1,0 +1,38 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 2,
+            "votes": 206040,
+            "extra_votes": 34474,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 3520,
+            "extra_votes": 3520,
+            "extra_seat": false
+        },
+        {
+            "name": "New Alliance",
+            "seats": 0,
+            "votes": 835,
+            "extra_votes": 835,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 2,
+            "votes": 132738,
+            "extra_votes": 46955,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Nevada 1988",
+        "total_seats": 4,
+        "total_votes": 343133,
+        "gallagher_index": 10.726055053691969
+    }
+}

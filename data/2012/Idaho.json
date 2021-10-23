@@ -1,0 +1,52 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 1,
+            "votes": 212787,
+            "extra_votes": 49719,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 9453,
+            "extra_votes": 9453,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 4402,
+            "extra_votes": 4402,
+            "extra_seat": false
+        },
+        {
+            "name": "Justice",
+            "seats": 0,
+            "votes": 2499,
+            "extra_votes": 2499,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 2222,
+            "extra_votes": 2222,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 420911,
+            "extra_votes": 94775,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Idaho 2012",
+        "total_seats": 4,
+        "total_votes": 652274,
+        "gallagher_index": 9.234283095885065
+    }
+}

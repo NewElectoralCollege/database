@@ -1,0 +1,45 @@
+{
+    "parties": [
+        {
+            "name": "Reform",
+            "seats": 1,
+            "votes": 224299,
+            "extra_votes": 46347,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 15632,
+            "extra_votes": 15632,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 1383,
+            "extra_votes": 1383,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 5,
+            "votes": 887424,
+            "extra_votes": 175616,
+            "extra_seat": true
+        },
+        {
+            "name": "Republican",
+            "seats": 6,
+            "votes": 1006693,
+            "extra_votes": 116933,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Indiana 1996",
+        "total_seats": 12,
+        "total_votes": 2135431,
+        "gallagher_index": 2.5911858138541057
+    }
+}

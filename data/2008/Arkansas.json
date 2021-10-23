@@ -1,0 +1,59 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 2,
+            "votes": 422310,
+            "extra_votes": 60106,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent American",
+            "seats": 0,
+            "votes": 12882,
+            "extra_votes": 12882,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 4776,
+            "extra_votes": 4776,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 4023,
+            "extra_votes": 4023,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 3470,
+            "extra_votes": 3470,
+            "extra_seat": false
+        },
+        {
+            "name": "Party for Socialism and Liberation",
+            "seats": 0,
+            "votes": 1139,
+            "extra_votes": 1139,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 4,
+            "votes": 638017,
+            "extra_votes": 94711,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Arkansas 2008",
+        "total_seats": 6,
+        "total_votes": 1086617,
+        "gallagher_index": 6.915882374370714
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "parties": [
+        {
+            "name": "Independent - Anderson, John B.",
+            "seats": 0,
+            "votes": 52800,
+            "extra_votes": 52800,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 6,
+            "votes": 875635,
+            "extra_votes": 19099,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 9677,
+            "extra_votes": 9677,
+            "extra_seat": false
+        },
+        {
+            "name": "Citizens",
+            "seats": 0,
+            "votes": 2287,
+            "extra_votes": 2287,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 416,
+            "extra_votes": 416,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 7,
+            "votes": 915018,
+            "extra_votes": 58482,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "North Carolina 1980",
+        "total_seats": 13,
+        "total_votes": 1855833,
+        "gallagher_index": 3.877063942355783
+    }
+}

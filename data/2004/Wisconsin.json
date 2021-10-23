@@ -1,0 +1,66 @@
+{
+    "parties": [
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 16390,
+            "extra_votes": 16390,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 6464,
+            "extra_votes": 6464,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 2986,
+            "extra_votes": 2986,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 2661,
+            "extra_votes": 2661,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist",
+            "seats": 0,
+            "votes": 471,
+            "extra_votes": 471,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 411,
+            "extra_votes": 411,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 5,
+            "votes": 1489504,
+            "extra_votes": 290704,
+            "extra_seat": true
+        },
+        {
+            "name": "Republican",
+            "seats": 5,
+            "votes": 1478120,
+            "extra_votes": 279320,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Wisconsin 2004",
+        "total_seats": 10,
+        "total_votes": 2997007,
+        "gallagher_index": 0.6769730545356254
+    }
+}

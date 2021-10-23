@@ -1,0 +1,52 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 5,
+            "votes": 879918,
+            "extra_votes": 41983,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 5721,
+            "extra_votes": 5721,
+            "extra_seat": false
+        },
+        {
+            "name": "Communist",
+            "seats": 0,
+            "votes": 898,
+            "extra_votes": 898,
+            "extra_seat": false
+        },
+        {
+            "name": "Workers World",
+            "seats": 0,
+            "votes": 745,
+            "extra_votes": 745,
+            "extra_seat": false
+        },
+        {
+            "name": "Alliance",
+            "seats": 0,
+            "votes": 656,
+            "extra_votes": 656,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 5,
+            "votes": 787935,
+            "extra_votes": 117587,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Maryland 1984",
+        "total_seats": 10,
+        "total_votes": 1675873,
+        "gallagher_index": 2.765874914350629
+    }
+}

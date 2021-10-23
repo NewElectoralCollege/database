@@ -1,0 +1,66 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 1,
+            "votes": 137288,
+            "extra_votes": 28081,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 8307,
+            "extra_votes": 8307,
+            "extra_seat": false
+        },
+        {
+            "name": "Reform",
+            "seats": 0,
+            "votes": 777,
+            "extra_votes": 777,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 774,
+            "extra_votes": 774,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 208,
+            "extra_votes": 208,
+            "extra_seat": false
+        },
+        {
+            "name": "Natural Law",
+            "seats": 0,
+            "votes": 107,
+            "extra_votes": 107,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 93,
+            "extra_votes": 93,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 2,
+            "votes": 180068,
+            "extra_votes": 70861,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Delaware 2000",
+        "total_seats": 3,
+        "total_votes": 327622,
+        "gallagher_index": 10.41648561422644
+    }
+}

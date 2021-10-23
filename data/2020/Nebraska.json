@@ -1,0 +1,38 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 20283,
+            "extra_votes": 20283,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 4671,
+            "extra_votes": 4671,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 2,
+            "votes": 374583,
+            "extra_votes": 183307,
+            "extra_seat": true
+        },
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 556846,
+            "extra_votes": 174294,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Nebraska 2020",
+        "total_seats": 5,
+        "total_votes": 956383,
+        "gallagher_index": 2.0717676831813847
+    }
+}

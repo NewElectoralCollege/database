@@ -1,0 +1,45 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 12,
+            "votes": 2310939,
+            "extra_votes": 31383,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 14944,
+            "extra_votes": 14944,
+            "extra_seat": false
+        },
+        {
+            "name": "Solidarity",
+            "seats": 0,
+            "votes": 10276,
+            "extra_votes": 10276,
+            "extra_seat": false
+        },
+        {
+            "name": "Workers League",
+            "seats": 0,
+            "votes": 7021,
+            "extra_votes": 7021,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 12,
+            "votes": 2215940,
+            "extra_votes": 126347,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Illinois 1988",
+        "total_seats": 24,
+        "total_votes": 4559120,
+        "gallagher_index": 1.1408198057105075
+    }
+}

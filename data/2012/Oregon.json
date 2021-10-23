@@ -1,0 +1,59 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 24089,
+            "extra_votes": 24089,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 19427,
+            "extra_votes": 19427,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 13275,
+            "extra_votes": 13275,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 4432,
+            "extra_votes": 4432,
+            "extra_seat": false
+        },
+        {
+            "name": "Justice",
+            "seats": 0,
+            "votes": 3384,
+            "extra_votes": 3384,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 754175,
+            "extra_votes": 242955,
+            "extra_seat": true
+        },
+        {
+            "name": "Democratic",
+            "seats": 4,
+            "votes": 970488,
+            "extra_votes": 203658,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Oregon 2012",
+        "total_seats": 7,
+        "total_votes": 1789270,
+        "gallagher_index": 2.506958442685259
+    }
+}

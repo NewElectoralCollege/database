@@ -1,0 +1,73 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 72477,
+            "extra_votes": 72477,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 37772,
+            "extra_votes": 37772,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 6161,
+            "extra_votes": 6161,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 2156,
+            "extra_votes": 2156,
+            "extra_seat": false
+        },
+        {
+            "name": "American Delta",
+            "seats": 0,
+            "votes": 1838,
+            "extra_votes": 1838,
+            "extra_seat": false
+        },
+        {
+            "name": "Worker's World",
+            "seats": 0,
+            "votes": 1749,
+            "extra_votes": 1749,
+            "extra_seat": false
+        },
+        {
+            "name": "Party for Socialism and Liberation",
+            "seats": 0,
+            "votes": 1682,
+            "extra_votes": 1682,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 6,
+            "votes": 1601933,
+            "extra_votes": 218348,
+            "extra_seat": true
+        },
+        {
+            "name": "Democratic",
+            "seats": 8,
+            "votes": 2148278,
+            "extra_votes": 211259,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "New Jersey 2016",
+        "total_seats": 14,
+        "total_votes": 3874046,
+        "gallagher_index": 2.192129007832232
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 1,
+            "votes": 196864,
+            "extra_votes": 53247,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 5539,
+            "extra_votes": 5539,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 3822,
+            "extra_votes": 3822,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Pierce, Brock",
+            "seats": 0,
+            "votes": 1183,
+            "extra_votes": 1183,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 931,
+            "extra_votes": 931,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 3,
+            "votes": 366130,
+            "extra_votes": 78896,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Hawaii 2020",
+        "total_seats": 4,
+        "total_votes": 574469,
+        "gallagher_index": 10.350934831552687
+    }
+}

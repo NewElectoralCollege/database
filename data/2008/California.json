@@ -1,0 +1,80 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 20,
+            "votes": 5011781,
+            "extra_votes": 80181,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 67582,
+            "extra_votes": 67582,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 40673,
+            "extra_votes": 40673,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 38774,
+            "extra_votes": 38774,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 17006,
+            "extra_votes": 17006,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 3145,
+            "extra_votes": 3145,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 49,
+            "extra_votes": 49,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 36,
+            "extra_votes": 36,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 34,
+            "votes": 8274473,
+            "extra_votes": 137333,
+            "extra_seat": true
+        },
+        {
+            "name": "Peace and Freedom",
+            "seats": 1,
+            "votes": 108381,
+            "extra_votes": 108381,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "California 2008",
+        "total_seats": 55,
+        "total_votes": 13561900,
+        "gallagher_index": 1.1120085719087571
+    }
+}

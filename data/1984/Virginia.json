@@ -1,0 +1,31 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 4,
+            "votes": 796250,
+            "extra_votes": 80706,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Larouche, Lyndon, Jr.",
+            "seats": 0,
+            "votes": 13307,
+            "extra_votes": 13307,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 8,
+            "votes": 1337078,
+            "extra_votes": 84876,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Virginia 1984",
+        "total_seats": 12,
+        "total_votes": 2146635,
+        "gallagher_index": 4.104812829581605
+    }
+}

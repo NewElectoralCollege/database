@@ -1,0 +1,45 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 4,
+            "votes": 1188314,
+            "extra_votes": 36402,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 30920,
+            "extra_votes": 30920,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 20691,
+            "extra_votes": 20691,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 6552,
+            "extra_votes": 6552,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 7,
+            "votes": 1921290,
+            "extra_votes": 193422,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Massachusetts 2012",
+        "total_seats": 11,
+        "total_votes": 3167767,
+        "gallagher_index": 2.4138545191364638
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "parties": [
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 107935,
+            "extra_votes": 107935,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 48343,
+            "extra_votes": 48343,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 17,
+            "votes": 4556118,
+            "extra_votes": 29766,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - McMullin, Evan",
+            "seats": 0,
+            "votes": 10397,
+            "extra_votes": 10397,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 955,
+            "extra_votes": 955,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 458,
+            "extra_votes": 458,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 175,
+            "extra_votes": 175,
+            "extra_seat": false
+        },
+        {
+            "name": "America's",
+            "seats": 0,
+            "votes": 137,
+            "extra_votes": 137,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 90,
+            "extra_votes": 90,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 88,
+            "extra_votes": 88,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 85,
+            "extra_votes": 85,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 76,
+            "extra_votes": 76,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 72,
+            "extra_votes": 72,
+            "extra_seat": false
+        },
+        {
+            "name": "Worker's World",
+            "seats": 0,
+            "votes": 68,
+            "extra_votes": 68,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 58,
+            "extra_votes": 58,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 42,
+            "extra_votes": 42,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist",
+            "seats": 0,
+            "votes": 36,
+            "extra_votes": 36,
+            "extra_seat": false
+        },
+        {
+            "name": "American Delta",
+            "seats": 0,
+            "votes": 35,
+            "extra_votes": 35,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 33,
+            "extra_votes": 33,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 30,
+            "extra_votes": 30,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 18,
+            "extra_votes": 18,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 15,
+            "extra_votes": 15,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 9,
+            "extra_votes": 9,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 8,
+            "extra_votes": 8,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 6,
+            "extra_votes": 6,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 5,
+            "extra_votes": 5,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 5,
+            "extra_votes": 5,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 4,
+            "extra_votes": 4,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 3,
+            "extra_votes": 3,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 3,
+            "extra_votes": 3,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 2,
+            "extra_votes": 2,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 1,
+            "votes": 176598,
+            "extra_votes": 176598,
+            "extra_seat": true
+        },
+        {
+            "name": "Republican",
+            "seats": 11,
+            "votes": 2819533,
+            "extra_votes": 156973,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "New York 2016",
+        "total_seats": 29,
+        "total_votes": 7721442,
+        "gallagher_index": 1.7123840580768872
+    }
+}

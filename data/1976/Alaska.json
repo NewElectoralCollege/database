@@ -1,0 +1,38 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 6785,
+            "extra_votes": 6785,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 1,
+            "votes": 44058,
+            "extra_votes": 2867,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 1176,
+            "extra_votes": 1176,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 2,
+            "votes": 71555,
+            "extra_votes": 30364,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Alaska 1976",
+        "total_seats": 3,
+        "total_votes": 123574,
+        "gallagher_index": 7.523577975127564
+    }
+}

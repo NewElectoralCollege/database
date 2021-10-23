@@ -1,0 +1,45 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 1,
+            "votes": 137013,
+            "extra_votes": 16485,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Gritz, James \"\"Bo\"\"",
+            "seats": 0,
+            "votes": 10894,
+            "extra_votes": 10894,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Perot, Ross",
+            "seats": 1,
+            "votes": 130395,
+            "extra_votes": 9867,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 1167,
+            "extra_votes": 1167,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 2,
+            "votes": 202645,
+            "extra_votes": 82117,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Idaho 1992",
+        "total_seats": 4,
+        "total_votes": 482114,
+        "gallagher_index": 6.500898291698456
+    }
+}

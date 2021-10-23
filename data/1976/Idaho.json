@@ -1,0 +1,45 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 2,
+            "votes": 204151,
+            "extra_votes": 33685,
+            "extra_seat": false
+        },
+        {
+            "name": "American Independent",
+            "seats": 0,
+            "votes": 5935,
+            "extra_votes": 5935,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 3558,
+            "extra_votes": 3558,
+            "extra_seat": false
+        },
+        {
+            "name": "U.S. Labor",
+            "seats": 0,
+            "votes": 739,
+            "extra_votes": 739,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 2,
+            "votes": 126549,
+            "extra_votes": 41316,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Idaho 1976",
+        "total_seats": 4,
+        "total_votes": 340932,
+        "gallagher_index": 11.56974798958769
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "parties": [
+        {
+            "name": "Independent - Perot, Ross",
+            "seats": 2,
+            "votes": 455934,
+            "extra_votes": 71624,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 5,
+            "votes": 989375,
+            "extra_votes": 28600,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 7936,
+            "extra_votes": 7936,
+            "extra_seat": false
+        },
+        {
+            "name": "New Alliance",
+            "seats": 0,
+            "votes": 2583,
+            "extra_votes": 2583,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 1623,
+            "extra_votes": 1623,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 5,
+            "votes": 848420,
+            "extra_votes": 79800,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Indiana 1992",
+        "total_seats": 12,
+        "total_votes": 2305871,
+        "gallagher_index": 4.187204180086088
+    }
+}

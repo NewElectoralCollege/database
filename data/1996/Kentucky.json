@@ -1,0 +1,59 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 623283,
+            "extra_votes": 102519,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 4009,
+            "extra_votes": 4009,
+            "extra_seat": false
+        },
+        {
+            "name": "U.S. Taxpayers",
+            "seats": 0,
+            "votes": 2204,
+            "extra_votes": 2204,
+            "extra_seat": false
+        },
+        {
+            "name": "Natural Law",
+            "seats": 0,
+            "votes": 1493,
+            "extra_votes": 1493,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 709,
+            "extra_votes": 709,
+            "extra_seat": false
+        },
+        {
+            "name": "Reform",
+            "seats": 1,
+            "votes": 120396,
+            "extra_votes": 120396,
+            "extra_seat": true
+        },
+        {
+            "name": "Democratic",
+            "seats": 4,
+            "votes": 636614,
+            "extra_votes": 115850,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Kentucky 1996",
+        "total_seats": 8,
+        "total_votes": 1388708,
+        "gallagher_index": 6.579476243458682
+    }
+}

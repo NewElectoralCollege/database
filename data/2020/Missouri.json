@@ -1,0 +1,73 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 4,
+            "votes": 1253014,
+            "extra_votes": 42630,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 41205,
+            "extra_votes": 41205,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 8283,
+            "extra_votes": 8283,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 3919,
+            "extra_votes": 3919,
+            "extra_seat": false
+        },
+        {
+            "name": "American Solidarity",
+            "seats": 0,
+            "votes": 664,
+            "extra_votes": 664,
+            "extra_seat": false
+        },
+        {
+            "name": "Becoming One Nation",
+            "seats": 0,
+            "votes": 74,
+            "extra_votes": 74,
+            "extra_seat": false
+        },
+        {
+            "name": "Party for Socialism and Liberation",
+            "seats": 0,
+            "votes": 64,
+            "extra_votes": 64,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Wells, Kasey",
+            "seats": 0,
+            "votes": 3,
+            "extra_votes": 3,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 6,
+            "votes": 1718736,
+            "extra_votes": 205756,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Missouri 2020",
+        "total_seats": 10,
+        "total_votes": 3025962,
+        "gallagher_index": 2.662079356501013
+    }
+}

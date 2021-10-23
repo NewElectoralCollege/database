@@ -1,0 +1,73 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 10,
+            "votes": 2086499,
+            "extra_votes": 78549,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 10086,
+            "extra_votes": 10086,
+            "extra_seat": false
+        },
+        {
+            "name": "Communist",
+            "seats": 0,
+            "votes": 4672,
+            "extra_votes": 4672,
+            "extra_seat": false
+        },
+        {
+            "name": "Citizens",
+            "seats": 0,
+            "votes": 2716,
+            "extra_votes": 2716,
+            "extra_seat": false
+        },
+        {
+            "name": "Workers League",
+            "seats": 0,
+            "votes": 2632,
+            "extra_votes": 2632,
+            "extra_seat": false
+        },
+        {
+            "name": "Alliance",
+            "seats": 0,
+            "votes": 2386,
+            "extra_votes": 2386,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 2132,
+            "extra_votes": 2132,
+            "extra_seat": false
+        },
+        {
+            "name": "",
+            "seats": 0,
+            "votes": 862,
+            "extra_votes": 862,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 14,
+            "votes": 2707103,
+            "extra_votes": 96768,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Illinois 1984",
+        "total_seats": 24,
+        "total_votes": 4819088,
+        "gallagher_index": 1.9210396192476262
+    }
+}

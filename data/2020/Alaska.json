@@ -1,0 +1,66 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 1,
+            "votes": 153778,
+            "extra_votes": 33935,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 8897,
+            "extra_votes": 8897,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 2673,
+            "extra_votes": 2673,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 1961,
+            "extra_votes": 1961,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 1127,
+            "extra_votes": 1127,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Pierce, Brock",
+            "seats": 0,
+            "votes": 825,
+            "extra_votes": 825,
+            "extra_seat": false
+        },
+        {
+            "name": "Alliance",
+            "seats": 0,
+            "votes": 318,
+            "extra_votes": 318,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 2,
+            "votes": 189951,
+            "extra_votes": 70108,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Alaska 2020",
+        "total_seats": 3,
+        "total_votes": 359530,
+        "gallagher_index": 11.99138492215759
+    }
+}

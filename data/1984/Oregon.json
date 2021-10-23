@@ -1,0 +1,31 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 3,
+            "votes": 536479,
+            "extra_votes": 10825,
+            "extra_seat": false
+        },
+        {
+            "name": "",
+            "seats": 0,
+            "votes": 4348,
+            "extra_votes": 4348,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 4,
+            "votes": 685700,
+            "extra_votes": 160046,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Oregon 1984",
+        "total_seats": 7,
+        "total_votes": 1226527,
+        "gallagher_index": 1.1033581123118692
+    }
+}

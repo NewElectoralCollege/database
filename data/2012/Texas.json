@@ -1,0 +1,87 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 88580,
+            "extra_votes": 88580,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 24657,
+            "extra_votes": 24657,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 1287,
+            "extra_votes": 1287,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 426,
+            "extra_votes": 426,
+            "extra_seat": false
+        },
+        {
+            "name": "America's",
+            "seats": 0,
+            "votes": 374,
+            "extra_votes": 374,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 209,
+            "extra_votes": 209,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist",
+            "seats": 0,
+            "votes": 162,
+            "extra_votes": 162,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 102,
+            "extra_votes": 102,
+            "extra_seat": false
+        },
+        {
+            "name": "Reform",
+            "seats": 0,
+            "votes": 87,
+            "extra_votes": 87,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 16,
+            "votes": 3308124,
+            "extra_votes": 152664,
+            "extra_seat": true
+        },
+        {
+            "name": "Republican",
+            "seats": 22,
+            "votes": 4569843,
+            "extra_votes": 152199,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Texas 2012",
+        "total_seats": 38,
+        "total_votes": 7993851,
+        "gallagher_index": 1.0895260800592101
+    }
+}

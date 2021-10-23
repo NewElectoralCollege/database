@@ -1,0 +1,52 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 1,
+            "votes": 123594,
+            "extra_votes": 14862,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Nader, Ralph",
+            "seats": 0,
+            "votes": 3783,
+            "extra_votes": 3783,
+            "extra_seat": false
+        },
+        {
+            "name": "Scattered",
+            "seats": 0,
+            "votes": 1730,
+            "extra_votes": 1730,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 1660,
+            "extra_votes": 1660,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 1589,
+            "extra_votes": 1589,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 2,
+            "votes": 193841,
+            "extra_votes": 85109,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Alaska 2008",
+        "total_seats": 3,
+        "total_votes": 326197,
+        "gallagher_index": 6.13712932997685
+    }
+}

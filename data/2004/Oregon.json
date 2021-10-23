@@ -1,0 +1,52 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 866831,
+            "extra_votes": 79640,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 8956,
+            "extra_votes": 8956,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 7260,
+            "extra_votes": 7260,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 5315,
+            "extra_votes": 5315,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 5257,
+            "extra_votes": 5257,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 4,
+            "votes": 943163,
+            "extra_votes": 155972,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Oregon 2004",
+        "total_seats": 7,
+        "total_votes": 1836782,
+        "gallagher_index": 5.144474728119558
+    }
+}

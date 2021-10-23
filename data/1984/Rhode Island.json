@@ -1,0 +1,73 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 2,
+            "votes": 212080,
+            "extra_votes": 6836,
+            "extra_seat": false
+        },
+        {
+            "name": "Populist",
+            "seats": 0,
+            "votes": 510,
+            "extra_votes": 510,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 277,
+            "extra_votes": 277,
+            "extra_seat": false
+        },
+        {
+            "name": "Citizens",
+            "seats": 0,
+            "votes": 240,
+            "extra_votes": 240,
+            "extra_seat": false
+        },
+        {
+            "name": "Workers World",
+            "seats": 0,
+            "votes": 91,
+            "extra_votes": 91,
+            "extra_seat": false
+        },
+        {
+            "name": "Communist",
+            "seats": 0,
+            "votes": 75,
+            "extra_votes": 75,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 61,
+            "extra_votes": 61,
+            "extra_seat": false
+        },
+        {
+            "name": "Alliance",
+            "seats": 0,
+            "votes": 49,
+            "extra_votes": 49,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 2,
+            "votes": 197106,
+            "extra_votes": 94484,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Rhode Island 1984",
+        "total_seats": 4,
+        "total_votes": 410489,
+        "gallagher_index": 1.8341702190972757
+    }
+}

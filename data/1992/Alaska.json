@@ -1,0 +1,80 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 1,
+            "votes": 102000,
+            "extra_votes": 15832,
+            "extra_seat": false
+        },
+        {
+            "name": "America First",
+            "seats": 0,
+            "votes": 1379,
+            "extra_votes": 1379,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 1378,
+            "extra_votes": 1378,
+            "extra_seat": false
+        },
+        {
+            "name": "Independents For Economic Recovery",
+            "seats": 0,
+            "votes": 469,
+            "extra_votes": 469,
+            "extra_seat": false
+        },
+        {
+            "name": "Natural Law",
+            "seats": 0,
+            "votes": 433,
+            "extra_votes": 433,
+            "extra_seat": false
+        },
+        {
+            "name": "U.S. Taxpayers",
+            "seats": 0,
+            "votes": 377,
+            "extra_votes": 377,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 365,
+            "extra_votes": 365,
+            "extra_seat": false
+        },
+        {
+            "name": "New Alliance",
+            "seats": 0,
+            "votes": 330,
+            "extra_votes": 330,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 1,
+            "votes": 78294,
+            "extra_votes": 78294,
+            "extra_seat": true
+        },
+        {
+            "name": "Independent - Perot, Ross",
+            "seats": 1,
+            "votes": 73481,
+            "extra_votes": 73481,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Alaska 1992",
+        "total_seats": 3,
+        "total_votes": 258506,
+        "gallagher_index": 5.981691016664594
+    }
+}

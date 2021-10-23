@@ -1,0 +1,143 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 62229,
+            "extra_votes": 62229,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 1013,
+            "extra_votes": 1013,
+            "extra_seat": false
+        },
+        {
+            "name": "American Solidarity",
+            "seats": 0,
+            "votes": 701,
+            "extra_votes": 701,
+            "extra_seat": false
+        },
+        {
+            "name": "Becoming One Nation",
+            "seats": 0,
+            "votes": 181,
+            "extra_votes": 181,
+            "extra_seat": false
+        },
+        {
+            "name": "Party for Socialism and Liberation",
+            "seats": 0,
+            "votes": 159,
+            "extra_votes": 159,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Charles, Mark",
+            "seats": 0,
+            "votes": 65,
+            "extra_votes": 65,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 61,
+            "extra_votes": 61,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Collins, Loren",
+            "seats": 0,
+            "votes": 11,
+            "extra_votes": 11,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Bellar, Barbara",
+            "seats": 0,
+            "votes": 10,
+            "extra_votes": 10,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Boddie, R. President",
+            "seats": 0,
+            "votes": 8,
+            "extra_votes": 8,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Sherrill, Peter",
+            "seats": 0,
+            "votes": 8,
+            "extra_votes": 8,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Jacob?Fambro, Princess Khadijah Maryam",
+            "seats": 0,
+            "votes": 7,
+            "extra_votes": 7,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Byrne, David",
+            "seats": 0,
+            "votes": 6,
+            "extra_votes": 6,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Wells, Kasey",
+            "seats": 0,
+            "votes": 6,
+            "extra_votes": 6,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Howard, Shawn W.",
+            "seats": 0,
+            "votes": 5,
+            "extra_votes": 5,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Gibson, Kathryn",
+            "seats": 0,
+            "votes": 2,
+            "extra_votes": 2,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Rouse, Deborah",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 8,
+            "votes": 2473633,
+            "extra_votes": 286154,
+            "extra_seat": true
+        },
+        {
+            "name": "Republican",
+            "seats": 8,
+            "votes": 2461854,
+            "extra_votes": 274375,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Georgia 2020",
+        "total_seats": 16,
+        "total_votes": 4999960,
+        "gallagher_index": 1.0974411267832773
+    }
+}

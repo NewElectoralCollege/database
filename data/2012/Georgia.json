@@ -1,0 +1,87 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 7,
+            "votes": 1773827,
+            "extra_votes": 67556,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 45324,
+            "extra_votes": 45324,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 1516,
+            "extra_votes": 1516,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 432,
+            "extra_votes": 432,
+            "extra_seat": false
+        },
+        {
+            "name": "Justice",
+            "seats": 0,
+            "votes": 154,
+            "extra_votes": 154,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 55,
+            "extra_votes": 55,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 30,
+            "extra_votes": 30,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 21,
+            "extra_votes": 21,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 2,
+            "extra_votes": 2,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 9,
+            "votes": 2078688,
+            "extra_votes": 128664,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Georgia 2012",
+        "total_seats": 16,
+        "total_votes": 3900050,
+        "gallagher_index": 2.5554791111523154
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 4,
+            "votes": 905083,
+            "extra_votes": 14251,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 12580,
+            "extra_votes": 12580,
+            "extra_seat": false
+        },
+        {
+            "name": "Justice",
+            "seats": 0,
+            "votes": 5487,
+            "extra_votes": 5487,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 863,
+            "extra_votes": 863,
+            "extra_seat": false
+        },
+        {
+            "name": "America's",
+            "seats": 0,
+            "votes": 25,
+            "extra_votes": 25,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 19,
+            "extra_votes": 19,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 5,
+            "extra_votes": 5,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 5,
+            "extra_votes": 5,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 634892,
+            "extra_votes": 189476,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Connecticut 2012",
+        "total_seats": 7,
+        "total_votes": 1558960,
+        "gallagher_index": 1.7547088913455662
+    }
+}

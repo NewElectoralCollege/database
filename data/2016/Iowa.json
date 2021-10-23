@@ -1,0 +1,87 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 59186,
+            "extra_votes": 59186,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 800983,
+            "extra_votes": 17968,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 17746,
+            "extra_votes": 17746,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - McMullin, Evan",
+            "seats": 0,
+            "votes": 12366,
+            "extra_votes": 12366,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 11479,
+            "extra_votes": 11479,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 5335,
+            "extra_votes": 5335,
+            "extra_seat": false
+        },
+        {
+            "name": "NPI",
+            "seats": 0,
+            "votes": 2247,
+            "extra_votes": 2247,
+            "extra_seat": false
+        },
+        {
+            "name": "Legal Marijuana Now",
+            "seats": 0,
+            "votes": 2246,
+            "extra_votes": 2246,
+            "extra_seat": false
+        },
+        {
+            "name": "American Delta",
+            "seats": 0,
+            "votes": 451,
+            "extra_votes": 451,
+            "extra_seat": false
+        },
+        {
+            "name": "Party for Socialism and Liberation",
+            "seats": 0,
+            "votes": 323,
+            "extra_votes": 323,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 3,
+            "votes": 653669,
+            "extra_votes": 131659,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Iowa 2016",
+        "total_seats": 6,
+        "total_votes": 1566031,
+        "gallagher_index": 6.573539998911243
+    }
+}

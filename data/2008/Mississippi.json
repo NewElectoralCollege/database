@@ -1,0 +1,59 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 724597,
+            "extra_votes": 79666,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Nader, Ralph",
+            "seats": 0,
+            "votes": 4011,
+            "extra_votes": 4011,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 2551,
+            "extra_votes": 2551,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 2529,
+            "extra_votes": 2529,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 1034,
+            "extra_votes": 1034,
+            "extra_seat": false
+        },
+        {
+            "name": "Reform",
+            "seats": 0,
+            "votes": 481,
+            "extra_votes": 481,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 3,
+            "votes": 554662,
+            "extra_votes": 124708,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Mississippi 2008",
+        "total_seats": 6,
+        "total_votes": 1289865,
+        "gallagher_index": 6.607027383572149
+    }
+}

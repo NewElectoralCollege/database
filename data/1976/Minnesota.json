@@ -1,0 +1,94 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 4,
+            "votes": 819395,
+            "extra_votes": 39423,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - McCarthy, Eugene",
+            "seats": 0,
+            "votes": 35490,
+            "extra_votes": 35490,
+            "extra_seat": false
+        },
+        {
+            "name": "American",
+            "seats": 0,
+            "votes": 13592,
+            "extra_votes": 13592,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 4149,
+            "extra_votes": 4149,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 3529,
+            "extra_votes": 3529,
+            "extra_seat": false
+        },
+        {
+            "name": "Communist",
+            "seats": 0,
+            "votes": 1092,
+            "extra_votes": 1092,
+            "extra_seat": false
+        },
+        {
+            "name": "People's",
+            "seats": 0,
+            "votes": 635,
+            "extra_votes": 635,
+            "extra_seat": false
+        },
+        {
+            "name": "International Development Bank",
+            "seats": 0,
+            "votes": 543,
+            "extra_votes": 543,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Labor",
+            "seats": 0,
+            "votes": 370,
+            "extra_votes": 370,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Party USA",
+            "seats": 0,
+            "votes": 354,
+            "extra_votes": 354,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 342,
+            "extra_votes": 342,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 6,
+            "votes": 1070440,
+            "extra_votes": 95475,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Minnesota 1976",
+        "total_seats": 10,
+        "total_votes": 1949931,
+        "gallagher_index": 4.1241784567463515
+    }
+}

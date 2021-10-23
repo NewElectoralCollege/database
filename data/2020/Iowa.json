@@ -1,0 +1,80 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 897672,
+            "extra_votes": 52239,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 19637,
+            "extra_votes": 19637,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 4337,
+            "extra_votes": 4337,
+            "extra_seat": false
+        },
+        {
+            "name": "The Birthday Party",
+            "seats": 0,
+            "votes": 3210,
+            "extra_votes": 3210,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 3075,
+            "extra_votes": 3075,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 1707,
+            "extra_votes": 1707,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - De La Fuente, Roque \"\"Rocky\"\"",
+            "seats": 0,
+            "votes": 1082,
+            "extra_votes": 1082,
+            "extra_seat": false
+        },
+        {
+            "name": "Geneology Know Your Family History",
+            "seats": 0,
+            "votes": 546,
+            "extra_votes": 546,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Pierce, Brock",
+            "seats": 0,
+            "votes": 544,
+            "extra_votes": 544,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 3,
+            "votes": 759061,
+            "extra_votes": 195439,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Iowa 2020",
+        "total_seats": 6,
+        "total_votes": 1690871,
+        "gallagher_index": 4.309205784228963
+    }
+}

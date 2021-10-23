@@ -1,0 +1,94 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 14,
+            "votes": 4617886,
+            "extra_votes": 70294,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 64399,
+            "extra_votes": 64399,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 16475,
+            "extra_votes": 16475,
+            "extra_seat": false
+        },
+        {
+            "name": "American Delta",
+            "seats": 0,
+            "votes": 9108,
+            "extra_votes": 9108,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 74,
+            "extra_votes": 74,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 25,
+            "extra_votes": 25,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 24,
+            "extra_votes": 24,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 19,
+            "extra_votes": 19,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 9,
+            "extra_votes": 9,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 2,
+            "extra_votes": 2,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 14,
+            "votes": 4504975,
+            "extra_votes": 282211,
+            "extra_seat": true
+        },
+        {
+            "name": "Libertarian",
+            "seats": 1,
+            "votes": 207043,
+            "extra_votes": 207043,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Florida 2016",
+        "total_seats": 29,
+        "total_votes": 9420039,
+        "gallagher_index": 1.1899940294080502
+    }
+}

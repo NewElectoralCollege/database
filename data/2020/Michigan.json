@@ -1,0 +1,87 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 60381,
+            "extra_votes": 60381,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 8,
+            "votes": 2804040,
+            "extra_votes": 34392,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 13718,
+            "extra_votes": 13718,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 7235,
+            "extra_votes": 7235,
+            "extra_seat": false
+        },
+        {
+            "name": "Natural Law",
+            "seats": 0,
+            "votes": 2986,
+            "extra_votes": 2986,
+            "extra_seat": false
+        },
+        {
+            "name": "American Solidarity",
+            "seats": 0,
+            "votes": 963,
+            "extra_votes": 963,
+            "extra_seat": false
+        },
+        {
+            "name": "Becoming One Nation",
+            "seats": 0,
+            "votes": 89,
+            "extra_votes": 89,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Hoefling, Tom",
+            "seats": 0,
+            "votes": 32,
+            "extra_votes": 32,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Wells, Kasey",
+            "seats": 0,
+            "votes": 5,
+            "extra_votes": 5,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Hunter, Tara Renee",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 8,
+            "votes": 2649852,
+            "extra_votes": 226410,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Michigan 2020",
+        "total_seats": 16,
+        "total_votes": 5539302,
+        "gallagher_index": 1.779400159783196
+    }
+}

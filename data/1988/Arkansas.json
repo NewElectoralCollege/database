@@ -1,0 +1,45 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 466578,
+            "extra_votes": 52710,
+            "extra_seat": false
+        },
+        {
+            "name": "Populist",
+            "seats": 0,
+            "votes": 6465,
+            "extra_votes": 6465,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 3297,
+            "extra_votes": 3297,
+            "extra_seat": false
+        },
+        {
+            "name": "New Alliance",
+            "seats": 0,
+            "votes": 2161,
+            "extra_votes": 2161,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 3,
+            "votes": 349237,
+            "extra_votes": 73325,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Arkansas 1988",
+        "total_seats": 6,
+        "total_votes": 827738,
+        "gallagher_index": 7.153853088093634
+    }
+}

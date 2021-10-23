@@ -1,0 +1,73 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 2,
+            "votes": 225123,
+            "extra_votes": 22813,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 825,
+            "extra_votes": 825,
+            "extra_seat": false
+        },
+        {
+            "name": "New Alliance",
+            "seats": 0,
+            "votes": 280,
+            "extra_votes": 280,
+            "extra_seat": false
+        },
+        {
+            "name": "Peace and Freedom",
+            "seats": 0,
+            "votes": 195,
+            "extra_votes": 195,
+            "extra_seat": false
+        },
+        {
+            "name": "Populist",
+            "seats": 0,
+            "votes": 159,
+            "extra_votes": 159,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 130,
+            "extra_votes": 130,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Party USA",
+            "seats": 0,
+            "votes": 96,
+            "extra_votes": 96,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 53,
+            "extra_votes": 53,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 2,
+            "votes": 177761,
+            "extra_votes": 76606,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Rhode Island 1988",
+        "total_seats": 4,
+        "total_votes": 404622,
+        "gallagher_index": 5.858781291547648
+    }
+}

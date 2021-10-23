@@ -1,0 +1,59 @@
+{
+    "parties": [
+        {
+            "name": "Independent - Anderson, John B.",
+            "seats": 0,
+            "votes": 29459,
+            "extra_votes": 29459,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 2,
+            "votes": 250779,
+            "extra_votes": 22661,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 4365,
+            "extra_votes": 4365,
+            "extra_seat": false
+        },
+        {
+            "name": "Citizens",
+            "seats": 0,
+            "votes": 2202,
+            "extra_votes": 2202,
+            "extra_seat": false
+        },
+        {
+            "name": "Statesman",
+            "seats": 0,
+            "votes": 1281,
+            "extra_votes": 1281,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 325,
+            "extra_votes": 325,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 2,
+            "votes": 167826,
+            "extra_votes": 53767,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "New Mexico 1980",
+        "total_seats": 4,
+        "total_votes": 456237,
+        "gallagher_index": 11.00532901817091
+    }
+}

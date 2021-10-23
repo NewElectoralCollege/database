@@ -1,0 +1,45 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 70105,
+            "extra_votes": 70105,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Fulani, Lenora",
+            "seats": 0,
+            "votes": 58999,
+            "extra_votes": 58999,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 24,
+            "votes": 5054917,
+            "extra_votes": 6205,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 811,
+            "extra_votes": 811,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 23,
+            "votes": 4702233,
+            "extra_votes": 74247,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "California 1988",
+        "total_seats": 47,
+        "total_votes": 9887065,
+        "gallagher_index": 1.1743574723409713
+    }
+}

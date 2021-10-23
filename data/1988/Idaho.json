@@ -1,0 +1,38 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 1,
+            "votes": 147272,
+            "extra_votes": 45030,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 5313,
+            "extra_votes": 5313,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Fulani, Lenora",
+            "seats": 0,
+            "votes": 2502,
+            "extra_votes": 2502,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 253881,
+            "extra_votes": 49397,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Idaho 1988",
+        "total_seats": 4,
+        "total_votes": 408968,
+        "gallagher_index": 12.047046348677183
+    }
+}

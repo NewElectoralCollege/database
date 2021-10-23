@@ -1,0 +1,66 @@
+{
+    "parties": [
+        {
+            "name": "Independent - McCarthy, Eugene",
+            "seats": 0,
+            "votes": 47905,
+            "extra_votes": 47905,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 5407,
+            "extra_votes": 5407,
+            "extra_seat": false
+        },
+        {
+            "name": "Human Rights",
+            "seats": 0,
+            "votes": 3504,
+            "extra_votes": 3504,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 1804,
+            "extra_votes": 1804,
+            "extra_seat": false
+        },
+        {
+            "name": "U.S. Labor",
+            "seats": 0,
+            "votes": 1366,
+            "extra_votes": 1366,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Labor",
+            "seats": 0,
+            "votes": 1148,
+            "extra_votes": 1148,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 11,
+            "votes": 1893742,
+            "extra_votes": 154892,
+            "extra_seat": true
+        },
+        {
+            "name": "Democratic",
+            "seats": 10,
+            "votes": 1696714,
+            "extra_votes": 131749,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Michigan 1976",
+        "total_seats": 21,
+        "total_votes": 3651590,
+        "gallagher_index": 1.2960117059295053
+    }
+}

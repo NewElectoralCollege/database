@@ -1,0 +1,66 @@
+{
+    "parties": [
+        {
+            "name": "NLF",
+            "seats": 0,
+            "votes": 33085,
+            "extra_votes": 33085,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 23716,
+            "extra_votes": 23716,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 14685,
+            "extra_votes": 14685,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 8892,
+            "extra_votes": 8892,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 129,
+            "extra_votes": 129,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist",
+            "seats": 0,
+            "votes": 41,
+            "extra_votes": 41,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 7,
+            "votes": 2048639,
+            "extra_votes": 283313,
+            "extra_seat": true
+        },
+        {
+            "name": "Democratic",
+            "seats": 10,
+            "votes": 2872579,
+            "extra_votes": 224590,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Michigan 2008",
+        "total_seats": 17,
+        "total_votes": 5001766,
+        "gallagher_index": 1.176026710572849
+    }
+}

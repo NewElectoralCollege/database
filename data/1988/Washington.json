@@ -1,0 +1,59 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 17240,
+            "extra_votes": 17240,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Larouche, Lyndon, Jr.",
+            "seats": 0,
+            "votes": 4412,
+            "extra_votes": 4412,
+            "extra_seat": false
+        },
+        {
+            "name": "New Alliance",
+            "seats": 0,
+            "votes": 3520,
+            "extra_votes": 3520,
+            "extra_seat": false
+        },
+        {
+            "name": "Workers World",
+            "seats": 0,
+            "votes": 1440,
+            "extra_votes": 1440,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 1290,
+            "extra_votes": 1290,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 5,
+            "votes": 933516,
+            "extra_votes": 891,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 5,
+            "votes": 903835,
+            "extra_votes": 157735,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Washington 1988",
+        "total_seats": 10,
+        "total_votes": 1865253,
+        "gallagher_index": 1.2925687717607528
+    }
+}

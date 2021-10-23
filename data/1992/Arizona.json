@@ -1,0 +1,66 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 572086,
+            "extra_votes": 14473,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Gritz, James \"\"Bo\"\"",
+            "seats": 0,
+            "votes": 8141,
+            "extra_votes": 8141,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 6759,
+            "extra_votes": 6759,
+            "extra_seat": false
+        },
+        {
+            "name": "Natural Law",
+            "seats": 0,
+            "votes": 2267,
+            "extra_votes": 2267,
+            "extra_seat": false
+        },
+        {
+            "name": "New Alliance",
+            "seats": 0,
+            "votes": 923,
+            "extra_votes": 923,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 8,
+            "extra_votes": 8,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 3,
+            "votes": 543050,
+            "extra_votes": 171308,
+            "extra_seat": true
+        },
+        {
+            "name": "Independent - Perot, Ross",
+            "seats": 2,
+            "votes": 353741,
+            "extra_votes": 167870,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Arizona 1992",
+        "total_seats": 8,
+        "total_votes": 1486975,
+        "gallagher_index": 1.397453964880306
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 18,
+            "votes": 3433428,
+            "extra_votes": 83214,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Larouche, Lyndon, Jr.",
+            "seats": 0,
+            "votes": 14613,
+            "extra_votes": 14613,
+            "extra_seat": false
+        },
+        {
+            "name": "",
+            "seats": 0,
+            "votes": 254,
+            "extra_votes": 254,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 11,
+            "votes": 1949276,
+            "extra_votes": 88046,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Texas 1984",
+        "total_seats": 29,
+        "total_votes": 5397571,
+        "gallagher_index": 1.6958475188238433
+    }
+}

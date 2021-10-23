@@ -1,0 +1,59 @@
+{
+    "parties": [
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 103392,
+            "extra_votes": 103392,
+            "extra_seat": false
+        },
+        {
+            "name": "Reform",
+            "seats": 0,
+            "votes": 16023,
+            "extra_votes": 16023,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 14428,
+            "extra_votes": 14428,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 11248,
+            "extra_votes": 11248,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 934,
+            "extra_votes": 934,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 11,
+            "votes": 2281127,
+            "extra_votes": 144997,
+            "extra_seat": true
+        },
+        {
+            "name": "Democratic",
+            "seats": 12,
+            "votes": 2485967,
+            "extra_votes": 136224,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Pennsylvania 2000",
+        "total_seats": 23,
+        "total_votes": 4913119,
+        "gallagher_index": 2.1338538890831735
+    }
+}

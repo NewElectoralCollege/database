@@ -1,0 +1,38 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 2534,
+            "extra_votes": 2534,
+            "extra_seat": false
+        },
+        {
+            "name": "New Alliance",
+            "seats": 0,
+            "votes": 1740,
+            "extra_votes": 1740,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 397956,
+            "extra_votes": 1077,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 2,
+            "votes": 259235,
+            "extra_votes": 126942,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Nebraska 1988",
+        "total_seats": 5,
+        "total_votes": 661465,
+        "gallagher_index": 0.6696580111554498
+    }
+}

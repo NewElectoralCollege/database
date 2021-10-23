@@ -1,0 +1,45 @@
+{
+    "parties": [
+        {
+            "name": "Populist",
+            "seats": 0,
+            "votes": 4494,
+            "extra_votes": 4494,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 2118,
+            "extra_votes": 2118,
+            "extra_seat": false
+        },
+        {
+            "name": "New Alliance",
+            "seats": 0,
+            "votes": 1256,
+            "extra_votes": 1256,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 5,
+            "votes": 734281,
+            "extra_votes": 146497,
+            "extra_seat": true
+        },
+        {
+            "name": "Democratic",
+            "seats": 4,
+            "votes": 580368,
+            "extra_votes": 139530,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Kentucky 1988",
+        "total_seats": 9,
+        "total_votes": 1322517,
+        "gallagher_index": 0.48262268401054664
+    }
+}

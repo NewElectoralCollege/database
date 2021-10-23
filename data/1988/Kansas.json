@@ -1,0 +1,31 @@
+{
+    "parties": [
+        {
+            "name": "Independent - ",
+            "seats": 0,
+            "votes": 16359,
+            "extra_votes": 16359,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 3,
+            "votes": 422636,
+            "extra_votes": 138910,
+            "extra_seat": true
+        },
+        {
+            "name": "Republican",
+            "seats": 4,
+            "votes": 554049,
+            "extra_votes": 128460,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Kansas 1988",
+        "total_seats": 7,
+        "total_votes": 993044,
+        "gallagher_index": 1.5205955575598502
+    }
+}

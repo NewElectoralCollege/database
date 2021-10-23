@@ -1,0 +1,87 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 1,
+            "votes": 157204,
+            "extra_votes": 45692,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 4388,
+            "extra_votes": 4388,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 2421,
+            "extra_votes": 2421,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 686,
+            "extra_votes": 686,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 617,
+            "extra_votes": 617,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 430,
+            "extra_votes": 430,
+            "extra_seat": false
+        },
+        {
+            "name": "Justice",
+            "seats": 0,
+            "votes": 416,
+            "extra_votes": 416,
+            "extra_seat": false
+        },
+        {
+            "name": "Party for Socialism and Liberation",
+            "seats": 0,
+            "votes": 132,
+            "extra_votes": 132,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 64,
+            "extra_votes": 64,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 14,
+            "extra_votes": 14,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 3,
+            "votes": 279677,
+            "extra_votes": 56653,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Rhode Island 2012",
+        "total_seats": 4,
+        "total_votes": 446049,
+        "gallagher_index": 11.347317750197698
+    }
+}

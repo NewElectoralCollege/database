@@ -1,0 +1,52 @@
+{
+    "parties": [
+        {
+            "name": "Reform",
+            "seats": 0,
+            "votes": 71278,
+            "extra_votes": 71278,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 2792,
+            "extra_votes": 2792,
+            "extra_seat": false
+        },
+        {
+            "name": "U.S. Taxpayers",
+            "seats": 0,
+            "votes": 1928,
+            "extra_votes": 1928,
+            "extra_seat": false
+        },
+        {
+            "name": "Natural Law",
+            "seats": 0,
+            "votes": 1189,
+            "extra_votes": 1189,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 2,
+            "votes": 236761,
+            "extra_votes": 101278,
+            "extra_seat": true
+        },
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 363467,
+            "extra_votes": 92501,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Nebraska 1996",
+        "total_seats": 5,
+        "total_votes": 677415,
+        "gallagher_index": 9.40080590747405
+    }
+}

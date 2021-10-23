@@ -1,0 +1,164 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 3608,
+            "extra_votes": 3608,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 1942,
+            "extra_votes": 1942,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 1310,
+            "extra_votes": 1310,
+            "extra_seat": false
+        },
+        {
+            "name": "The Birthday Party",
+            "seats": 0,
+            "votes": 1269,
+            "extra_votes": 1269,
+            "extra_seat": false
+        },
+        {
+            "name": "Grumpy Old Patriots",
+            "seats": 0,
+            "votes": 1175,
+            "extra_votes": 1175,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Lafontaine, Christopher",
+            "seats": 0,
+            "votes": 856,
+            "extra_votes": 856,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Duncan, Richard",
+            "seats": 0,
+            "votes": 213,
+            "extra_votes": 213,
+            "extra_seat": false
+        },
+        {
+            "name": "American Solidarity",
+            "seats": 0,
+            "votes": 209,
+            "extra_votes": 209,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 208,
+            "extra_votes": 208,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 195,
+            "extra_votes": 195,
+            "extra_seat": false
+        },
+        {
+            "name": "Liberty Union",
+            "seats": 0,
+            "votes": 166,
+            "extra_votes": 166,
+            "extra_seat": false
+        },
+        {
+            "name": "Boiling Frog",
+            "seats": 0,
+            "votes": 141,
+            "extra_votes": 141,
+            "extra_seat": false
+        },
+        {
+            "name": "Prohibition",
+            "seats": 0,
+            "votes": 137,
+            "extra_votes": 137,
+            "extra_seat": false
+        },
+        {
+            "name": "Bull Moose",
+            "seats": 0,
+            "votes": 126,
+            "extra_votes": 126,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Pierce, Brock",
+            "seats": 0,
+            "votes": 100,
+            "extra_votes": 100,
+            "extra_seat": false
+        },
+        {
+            "name": "Bread and Roses",
+            "seats": 0,
+            "votes": 65,
+            "extra_votes": 65,
+            "extra_seat": false
+        },
+        {
+            "name": "Approval Voting",
+            "seats": 0,
+            "votes": 54,
+            "extra_votes": 54,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent American",
+            "seats": 0,
+            "votes": 53,
+            "extra_votes": 53,
+            "extra_seat": false
+        },
+        {
+            "name": "Alliance",
+            "seats": 0,
+            "votes": 48,
+            "extra_votes": 48,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Scalf, Zachary",
+            "seats": 0,
+            "votes": 29,
+            "extra_votes": 29,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 2,
+            "votes": 242820,
+            "extra_votes": 120344,
+            "extra_seat": true
+        },
+        {
+            "name": "Republican",
+            "seats": 1,
+            "votes": 112704,
+            "extra_votes": 112704,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Vermont 2020",
+        "total_seats": 3,
+        "total_votes": 367428,
+        "gallagher_index": 2.1303690053524607
+    }
+}

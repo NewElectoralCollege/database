@@ -1,0 +1,122 @@
+{
+    "parties": [
+        {
+            "name": "UN",
+            "seats": 0,
+            "votes": 13352,
+            "extra_votes": 13352,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 10898,
+            "extra_votes": 10898,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 4,
+            "votes": 1073629,
+            "extra_votes": 6313,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 6233,
+            "extra_votes": 6233,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 3051,
+            "extra_votes": 3051,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 2822,
+            "extra_votes": 2822,
+            "extra_seat": false
+        },
+        {
+            "name": "UN",
+            "seats": 0,
+            "votes": 829,
+            "extra_votes": 829,
+            "extra_seat": false
+        },
+        {
+            "name": "Boston Tea",
+            "seats": 0,
+            "votes": 598,
+            "extra_votes": 598,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 348,
+            "extra_votes": 348,
+            "extra_seat": false
+        },
+        {
+            "name": "Objectivist",
+            "seats": 0,
+            "votes": 336,
+            "extra_votes": 336,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist",
+            "seats": 0,
+            "votes": 226,
+            "extra_votes": 226,
+            "extra_seat": false
+        },
+        {
+            "name": "Party for Socialism and Liberation",
+            "seats": 0,
+            "votes": 158,
+            "extra_votes": 158,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 154,
+            "extra_votes": 154,
+            "extra_seat": false
+        },
+        {
+            "name": "USP",
+            "seats": 0,
+            "votes": 110,
+            "extra_votes": 110,
+            "extra_seat": false
+        },
+        {
+            "name": "Prohibition",
+            "seats": 0,
+            "votes": 85,
+            "extra_votes": 85,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 5,
+            "votes": 1288633,
+            "extra_votes": 221317,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Colorado 2008",
+        "total_seats": 9,
+        "total_votes": 2401462,
+        "gallagher_index": 1.462138621845136
+    }
+}

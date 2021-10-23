@@ -1,0 +1,66 @@
+{
+    "parties": [
+        {
+            "name": "Reform",
+            "seats": 0,
+            "votes": 32971,
+            "extra_votes": 32971,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 14,
+            "votes": 3964522,
+            "extra_votes": 18706,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 11996,
+            "extra_votes": 11996,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 6626,
+            "extra_votes": 6626,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 3917,
+            "extra_votes": 3917,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist",
+            "seats": 0,
+            "votes": 3502,
+            "extra_votes": 3502,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 2732,
+            "extra_votes": 2732,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 13,
+            "votes": 3583544,
+            "extra_votes": 201416,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Florida 2004",
+        "total_seats": 27,
+        "total_votes": 7609810,
+        "gallagher_index": 0.8378218163277767
+    }
+}

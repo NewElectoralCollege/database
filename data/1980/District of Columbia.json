@@ -1,0 +1,73 @@
+{
+    "parties": [
+        {
+            "name": "Independent - Anderson, John B.",
+            "seats": 0,
+            "votes": 16131,
+            "extra_votes": 16131,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 2,
+            "votes": 130231,
+            "extra_votes": 14305,
+            "extra_seat": false
+        },
+        {
+            "name": "Citizens",
+            "seats": 0,
+            "votes": 1826,
+            "extra_votes": 1826,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 1104,
+            "extra_votes": 1104,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 690,
+            "extra_votes": 690,
+            "extra_seat": false
+        },
+        {
+            "name": "Communist",
+            "seats": 0,
+            "votes": 369,
+            "extra_votes": 369,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 173,
+            "extra_votes": 173,
+            "extra_seat": false
+        },
+        {
+            "name": "Workers World",
+            "seats": 0,
+            "votes": 52,
+            "extra_votes": 52,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 1,
+            "votes": 23313,
+            "extra_votes": 23313,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "District of Columbia 1980",
+        "total_seats": 3,
+        "total_votes": 173889,
+        "gallagher_index": 16.621004872371216
+    }
+}

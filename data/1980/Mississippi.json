@@ -1,0 +1,52 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 3,
+            "votes": 429281,
+            "extra_votes": 47105,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Anderson, John B.",
+            "seats": 0,
+            "votes": 12036,
+            "extra_votes": 12036,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 4702,
+            "extra_votes": 4702,
+            "extra_seat": false
+        },
+        {
+            "name": "Workers World",
+            "seats": 0,
+            "votes": 2402,
+            "extra_votes": 2402,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 2240,
+            "extra_votes": 2240,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 4,
+            "votes": 441089,
+            "extra_votes": 58913,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Mississippi 1980",
+        "total_seats": 7,
+        "total_votes": 891750,
+        "gallagher_index": 6.674979063572456
+    }
+}

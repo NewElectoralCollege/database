@@ -1,0 +1,66 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 7,
+            "votes": 1255656,
+            "extra_votes": 48408,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 19627,
+            "extra_votes": 19627,
+            "extra_seat": false
+        },
+        {
+            "name": "Citizens",
+            "seats": 0,
+            "votes": 4852,
+            "extra_votes": 4852,
+            "extra_seat": false
+        },
+        {
+            "name": "American",
+            "seats": 0,
+            "votes": 4750,
+            "extra_votes": 4750,
+            "extra_seat": false
+        },
+        {
+            "name": "Communist",
+            "seats": 0,
+            "votes": 702,
+            "extra_votes": 702,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 610,
+            "extra_votes": 610,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 5,
+            "votes": 844197,
+            "extra_votes": 154341,
+            "extra_seat": true
+        },
+        {
+            "name": "Independent - Anderson, John B.",
+            "seats": 1,
+            "votes": 111639,
+            "extra_votes": 111639,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Indiana 1980",
+        "total_seats": 13,
+        "total_votes": 2242033,
+        "gallagher_index": 2.601434866063293
+    }
+}

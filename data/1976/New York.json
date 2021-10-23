@@ -1,0 +1,59 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 21,
+            "votes": 3389558,
+            "extra_votes": 42662,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 12197,
+            "extra_votes": 12197,
+            "extra_seat": false
+        },
+        {
+            "name": "Communist",
+            "seats": 0,
+            "votes": 10270,
+            "extra_votes": 10270,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 9195,
+            "extra_votes": 9195,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 6996,
+            "extra_votes": 6996,
+            "extra_seat": false
+        },
+        {
+            "name": "Labor",
+            "seats": 0,
+            "votes": 5413,
+            "extra_votes": 5413,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 20,
+            "votes": 3100791,
+            "extra_votes": 72647,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "New York 1976",
+        "total_seats": 41,
+        "total_votes": 6534420,
+        "gallagher_index": 1.069016018388214
+    }
+}

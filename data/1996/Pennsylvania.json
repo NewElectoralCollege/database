@@ -1,0 +1,52 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 9,
+            "votes": 1801169,
+            "extra_votes": 39788,
+            "extra_seat": false
+        },
+        {
+            "name": "Reform",
+            "seats": 2,
+            "votes": 430984,
+            "extra_votes": 39566,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 28000,
+            "extra_votes": 28000,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 19552,
+            "extra_votes": 19552,
+            "extra_seat": false
+        },
+        {
+            "name": "Natural Law",
+            "seats": 0,
+            "votes": 5783,
+            "extra_votes": 5783,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 12,
+            "votes": 2215819,
+            "extra_votes": 63020,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Pennsylvania 1996",
+        "total_seats": 23,
+        "total_votes": 4501307,
+        "gallagher_index": 2.3276067376580087
+    }
+}

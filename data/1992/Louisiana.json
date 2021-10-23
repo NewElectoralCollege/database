@@ -1,0 +1,87 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 4,
+            "votes": 815971,
+            "extra_votes": 20411,
+            "extra_seat": false
+        },
+        {
+            "name": "America First",
+            "seats": 0,
+            "votes": 18545,
+            "extra_votes": 18545,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Perot, Ross",
+            "seats": 1,
+            "votes": 211478,
+            "extra_votes": 12588,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 3155,
+            "extra_votes": 3155,
+            "extra_seat": false
+        },
+        {
+            "name": "Equal Justice and Opportunity",
+            "seats": 0,
+            "votes": 1663,
+            "extra_votes": 1663,
+            "extra_seat": false
+        },
+        {
+            "name": "U.S. Taxpayers",
+            "seats": 0,
+            "votes": 1552,
+            "extra_votes": 1552,
+            "extra_seat": false
+        },
+        {
+            "name": "More Perfect Democracy",
+            "seats": 0,
+            "votes": 1434,
+            "extra_votes": 1434,
+            "extra_seat": false
+        },
+        {
+            "name": "Justice, Industry, and Agriculture",
+            "seats": 0,
+            "votes": 1136,
+            "extra_votes": 1136,
+            "extra_seat": false
+        },
+        {
+            "name": "Natural Law",
+            "seats": 0,
+            "votes": 889,
+            "extra_votes": 889,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Yiamouyiannis, John",
+            "seats": 0,
+            "votes": 808,
+            "extra_votes": 808,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 4,
+            "votes": 733386,
+            "extra_votes": 136716,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Louisiana 1992",
+        "total_seats": 9,
+        "total_votes": 1790017,
+        "gallagher_index": 2.73818748394908
+    }
+}

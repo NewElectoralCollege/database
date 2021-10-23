@@ -1,0 +1,94 @@
+{
+    "parties": [
+        {
+            "name": "Independent - Perot, Ross",
+            "seats": 1,
+            "votes": 253468,
+            "extra_votes": 60059,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 3,
+            "votes": 586353,
+            "extra_votes": 6126,
+            "extra_seat": false
+        },
+        {
+            "name": "Natural Law",
+            "seats": 0,
+            "votes": 3079,
+            "extra_votes": 3079,
+            "extra_seat": false
+        },
+        {
+            "name": "",
+            "seats": 0,
+            "votes": 1965,
+            "extra_votes": 1965,
+            "extra_seat": false
+        },
+        {
+            "name": "America First",
+            "seats": 0,
+            "votes": 1177,
+            "extra_votes": 1177,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 1076,
+            "extra_votes": 1076,
+            "extra_seat": false
+        },
+        {
+            "name": "Grassroots",
+            "seats": 0,
+            "votes": 669,
+            "extra_votes": 669,
+            "extra_seat": false
+        },
+        {
+            "name": "U.S. Taxpayers",
+            "seats": 0,
+            "votes": 480,
+            "extra_votes": 480,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 273,
+            "extra_votes": 273,
+            "extra_seat": false
+        },
+        {
+            "name": "Independents For Economic Recovery",
+            "seats": 0,
+            "votes": 238,
+            "extra_votes": 238,
+            "extra_seat": false
+        },
+        {
+            "name": "New Alliance",
+            "seats": 0,
+            "votes": 197,
+            "extra_votes": 197,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 504891,
+            "extra_votes": 118073,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Iowa 1992",
+        "total_seats": 7,
+        "total_votes": 1353866,
+        "gallagher_index": 5.046759514186431
+    }
+}

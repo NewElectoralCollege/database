@@ -1,0 +1,38 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 5,
+            "votes": 1047499,
+            "extra_votes": 51314,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - ",
+            "seats": 0,
+            "votes": 15042,
+            "extra_votes": 15042,
+            "extra_seat": false
+        },
+        {
+            "name": "",
+            "seats": 0,
+            "votes": 2273,
+            "extra_votes": 2273,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 6,
+            "votes": 1126794,
+            "extra_votes": 130609,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Wisconsin 1988",
+        "total_seats": 11,
+        "total_votes": 2191608,
+        "gallagher_index": 2.807991748705149
+    }
+}

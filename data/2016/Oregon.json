@@ -1,0 +1,45 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 94231,
+            "extra_votes": 94231,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 72594,
+            "extra_votes": 72594,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 50002,
+            "extra_votes": 50002,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 782403,
+            "extra_votes": 210593,
+            "extra_seat": true
+        },
+        {
+            "name": "Democratic",
+            "seats": 4,
+            "votes": 1002106,
+            "extra_votes": 144391,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Oregon 2016",
+        "total_seats": 7,
+        "total_votes": 2001336,
+        "gallagher_index": 7.270779348013166
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 5,
+            "votes": 966207,
+            "extra_votes": 75772,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 8765,
+            "extra_votes": 8765,
+            "extra_seat": false
+        },
+        {
+            "name": "U.S. Taxpayers",
+            "seats": 0,
+            "votes": 3402,
+            "extra_votes": 3402,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 2637,
+            "extra_votes": 2637,
+            "extra_seat": false
+        },
+        {
+            "name": "Natural Law",
+            "seats": 0,
+            "votes": 2517,
+            "extra_votes": 2517,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 4,
+            "votes": 681530,
+            "extra_votes": 147269,
+            "extra_seat": true
+        },
+        {
+            "name": "Reform",
+            "seats": 1,
+            "votes": 115812,
+            "extra_votes": 115812,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Maryland 1996",
+        "total_seats": 10,
+        "total_votes": 1780870,
+        "gallagher_index": 4.101620920274266
+    }
+}

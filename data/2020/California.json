@@ -1,0 +1,87 @@
+{
+    "parties": [
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 81029,
+            "extra_votes": 81029,
+            "extra_seat": false
+        },
+        {
+            "name": "American Independent",
+            "seats": 0,
+            "votes": 60160,
+            "extra_votes": 60160,
+            "extra_seat": false
+        },
+        {
+            "name": "Peace and Freedom",
+            "seats": 0,
+            "votes": 51037,
+            "extra_votes": 51037,
+            "extra_seat": false
+        },
+        {
+            "name": "American Solidarity",
+            "seats": 0,
+            "votes": 2605,
+            "extra_votes": 2605,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 611,
+            "extra_votes": 611,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Mark Charles",
+            "seats": 0,
+            "votes": 559,
+            "extra_votes": 559,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Pierce, Brock",
+            "seats": 0,
+            "votes": 185,
+            "extra_votes": 185,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Joseph Kishore",
+            "seats": 0,
+            "votes": 121,
+            "extra_votes": 121,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 35,
+            "votes": 11110250,
+            "extra_votes": 291552,
+            "extra_seat": true
+        },
+        {
+            "name": "Republican",
+            "seats": 19,
+            "votes": 6006429,
+            "extra_votes": 278883,
+            "extra_seat": true
+        },
+        {
+            "name": "Libertarian",
+            "seats": 1,
+            "votes": 187895,
+            "extra_votes": 187895,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "California 2020",
+        "total_seats": 55,
+        "total_votes": 17500881,
+        "gallagher_index": 0.7231583973977889
+    }
+}

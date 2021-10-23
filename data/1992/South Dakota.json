@@ -1,0 +1,45 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 1,
+            "votes": 136718,
+            "extra_votes": 24634,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 1,
+            "votes": 124888,
+            "extra_votes": 12804,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 814,
+            "extra_votes": 814,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Other",
+            "seats": 0,
+            "votes": 539,
+            "extra_votes": 539,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Perot, Ross",
+            "seats": 1,
+            "votes": 73295,
+            "extra_votes": 73295,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "South Dakota 1992",
+        "total_seats": 3,
+        "total_votes": 336254,
+        "gallagher_index": 10.033073441888341
+    }
+}

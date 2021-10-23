@@ -1,0 +1,150 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 5,
+            "votes": 1252401,
+            "extra_votes": 82781,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 34345,
+            "extra_votes": 34345,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - McMullin, Evan",
+            "seats": 0,
+            "votes": 17449,
+            "extra_votes": 17449,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 1058,
+            "extra_votes": 1058,
+            "extra_seat": false
+        },
+        {
+            "name": "America's",
+            "seats": 0,
+            "votes": 85,
+            "extra_votes": 85,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 62,
+            "extra_votes": 62,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 56,
+            "extra_votes": 56,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 52,
+            "extra_votes": 52,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 42,
+            "extra_votes": 42,
+            "extra_seat": false
+        },
+        {
+            "name": "American Delta",
+            "seats": 0,
+            "votes": 29,
+            "extra_votes": 29,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 24,
+            "extra_votes": 24,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 20,
+            "extra_votes": 20,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 14,
+            "extra_votes": 14,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 12,
+            "extra_votes": 12,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 11,
+            "extra_votes": 11,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 4,
+            "extra_votes": 4,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 4,
+            "extra_votes": 4,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 3,
+            "extra_votes": 3,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 5,
+            "votes": 1161167,
+            "extra_votes": 225471,
+            "extra_seat": true
+        },
+        {
+            "name": "Libertarian",
+            "seats": 1,
+            "votes": 106327,
+            "extra_votes": 106327,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Arizona 2016",
+        "total_seats": 11,
+        "total_votes": 2573165,
+        "gallagher_index": 4.31797785826836
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 22038,
+            "extra_votes": 22038,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Anderson, John B.",
+            "seats": 2,
+            "votes": 382539,
+            "extra_votes": 21955,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 3735,
+            "extra_votes": 3735,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 2289,
+            "extra_votes": 2289,
+            "extra_seat": false
+        },
+        {
+            "name": "Citizens",
+            "seats": 0,
+            "votes": 2056,
+            "extra_votes": 2056,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 6,
+            "votes": 1057631,
+            "extra_votes": 156171,
+            "extra_seat": true
+        },
+        {
+            "name": "Democratic",
+            "seats": 6,
+            "votes": 1053802,
+            "extra_votes": 152342,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Massachusetts 1980",
+        "total_seats": 14,
+        "total_votes": 2524090,
+        "gallagher_index": 1.3592619335259575
+    }
+}

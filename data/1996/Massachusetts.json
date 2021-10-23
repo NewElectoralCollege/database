@@ -1,0 +1,66 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 3,
+            "votes": 718058,
+            "extra_votes": 78944,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 20424,
+            "extra_votes": 20424,
+            "extra_seat": false
+        },
+        {
+            "name": "Reform",
+            "seats": 1,
+            "votes": 227206,
+            "extra_votes": 14168,
+            "extra_seat": false
+        },
+        {
+            "name": "",
+            "seats": 0,
+            "votes": 6180,
+            "extra_votes": 6180,
+            "extra_seat": false
+        },
+        {
+            "name": "Natural Law",
+            "seats": 0,
+            "votes": 5183,
+            "extra_votes": 5183,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 4623,
+            "extra_votes": 4623,
+            "extra_seat": false
+        },
+        {
+            "name": "Workers World",
+            "seats": 0,
+            "votes": 3276,
+            "extra_votes": 3276,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 8,
+            "votes": 1571509,
+            "extra_votes": 80243,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Massachusetts 1996",
+        "total_seats": 12,
+        "total_votes": 2556459,
+        "gallagher_index": 4.336663305359409
+    }
+}

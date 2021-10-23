@@ -1,0 +1,52 @@
+{
+    "parties": [
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 27788,
+            "extra_votes": 27788,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 2,
+            "votes": 335788,
+            "extra_votes": 22286,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 2691,
+            "extra_votes": 2691,
+            "extra_seat": false
+        },
+        {
+            "name": "Justice",
+            "seats": 0,
+            "votes": 1174,
+            "extra_votes": 1174,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 982,
+            "extra_votes": 982,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 3,
+            "votes": 415335,
+            "extra_votes": 101833,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "New Mexico 2012",
+        "total_seats": 5,
+        "total_votes": 783758,
+        "gallagher_index": 5.912375893977409
+    }
+}

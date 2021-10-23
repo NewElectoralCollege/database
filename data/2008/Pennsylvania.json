@@ -1,0 +1,66 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 9,
+            "votes": 2655885,
+            "extra_votes": 78771,
+            "extra_seat": false
+        },
+        {
+            "name": "HGR",
+            "seats": 0,
+            "votes": 42977,
+            "extra_votes": 42977,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 19912,
+            "extra_votes": 19912,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 8180,
+            "extra_votes": 8180,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 5014,
+            "extra_votes": 5014,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 3849,
+            "extra_votes": 3849,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 1092,
+            "extra_votes": 1092,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 12,
+            "votes": 3276363,
+            "extra_votes": 126557,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Pennsylvania 2008",
+        "total_seats": 21,
+        "total_votes": 6013272,
+        "gallagher_index": 2.1711281626438947
+    }
+}

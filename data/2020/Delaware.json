@@ -1,0 +1,157 @@
+{
+    "parties": [
+        {
+            "name": "Republican",
+            "seats": 1,
+            "votes": 200603,
+            "extra_votes": 32488,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 5000,
+            "extra_votes": 5000,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 2139,
+            "extra_votes": 2139,
+            "extra_seat": false
+        },
+        {
+            "name": "The Birthday Party",
+            "seats": 0,
+            "votes": 169,
+            "extra_votes": 169,
+            "extra_seat": false
+        },
+        {
+            "name": "American Solidarity",
+            "seats": 0,
+            "votes": 87,
+            "extra_votes": 87,
+            "extra_seat": false
+        },
+        {
+            "name": "Becoming One Nation",
+            "seats": 0,
+            "votes": 28,
+            "extra_votes": 28,
+            "extra_seat": false
+        },
+        {
+            "name": "Party for Socialism and Liberation",
+            "seats": 0,
+            "votes": 14,
+            "extra_votes": 14,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Charles, Mark",
+            "seats": 0,
+            "votes": 8,
+            "extra_votes": 8,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Bellar, Barbara",
+            "seats": 0,
+            "votes": 7,
+            "extra_votes": 7,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Pierce, Brock",
+            "seats": 0,
+            "votes": 5,
+            "extra_votes": 5,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Howard, Shawn W.",
+            "seats": 0,
+            "votes": 4,
+            "extra_votes": 4,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Ball, Dennis Andrew",
+            "seats": 0,
+            "votes": 3,
+            "extra_votes": 3,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Cella, Todd",
+            "seats": 0,
+            "votes": 2,
+            "extra_votes": 2,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Jacob?Fambro, Princess Khadijah Maryam",
+            "seats": 0,
+            "votes": 2,
+            "extra_votes": 2,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Williams, Mitchell",
+            "seats": 0,
+            "votes": 2,
+            "extra_votes": 2,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Boddie, R. President",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Gibson, Kathryn",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Hoefling, Tom",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Rouse, Deborah",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Independent - Wells, Kasey",
+            "seats": 0,
+            "votes": 1,
+            "extra_votes": 1,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 2,
+            "votes": 296268,
+            "extra_votes": 128153,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Delaware 2020",
+        "total_seats": 3,
+        "total_votes": 504346,
+        "gallagher_index": 7.260924937612511
+    }
+}

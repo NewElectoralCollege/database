@@ -1,0 +1,59 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 2,
+            "votes": 485131,
+            "extra_votes": 82013,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 14435,
+            "extra_votes": 14435,
+            "extra_seat": false
+        },
+        {
+            "name": "Constitution",
+            "seats": 0,
+            "votes": 3987,
+            "extra_votes": 3987,
+            "extra_seat": false
+        },
+        {
+            "name": "Green",
+            "seats": 0,
+            "votes": 3731,
+            "extra_votes": 3731,
+            "extra_seat": false
+        },
+        {
+            "name": "Prohibition",
+            "seats": 0,
+            "votes": 715,
+            "extra_votes": 715,
+            "extra_seat": false
+        },
+        {
+            "name": "American Delta",
+            "seats": 0,
+            "votes": 644,
+            "extra_votes": 644,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 4,
+            "votes": 700714,
+            "extra_votes": 96037,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Mississippi 2016",
+        "total_seats": 6,
+        "total_votes": 1209357,
+        "gallagher_index": 7.8663723368161875
+    }
+}

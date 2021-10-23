@@ -1,0 +1,52 @@
+{
+    "parties": [
+        {
+            "name": "Democratic",
+            "seats": 6,
+            "votes": 1107849,
+            "extra_votes": 29649,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 8740,
+            "extra_votes": 8740,
+            "extra_seat": false
+        },
+        {
+            "name": "Natural Law",
+            "seats": 0,
+            "votes": 2771,
+            "extra_votes": 2771,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 2450,
+            "extra_votes": 2450,
+            "extra_seat": false
+        },
+        {
+            "name": "Reform",
+            "seats": 1,
+            "votes": 168059,
+            "extra_votes": 168059,
+            "extra_seat": true
+        },
+        {
+            "name": "Republican",
+            "seats": 7,
+            "votes": 1225938,
+            "extra_votes": 147738,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "North Carolina 1996",
+        "total_seats": 14,
+        "total_votes": 2515807,
+        "gallagher_index": 1.2960359463339437
+    }
+}

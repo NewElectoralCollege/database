@@ -1,0 +1,73 @@
+{
+    "parties": [
+        {
+            "name": "Independent - McCarthy, Eugene",
+            "seats": 0,
+            "votes": 55939,
+            "extra_votes": 55939,
+            "extra_seat": false
+        },
+        {
+            "name": "Communist",
+            "seats": 0,
+            "votes": 9250,
+            "extra_votes": 9250,
+            "extra_seat": false
+        },
+        {
+            "name": "Libertarian",
+            "seats": 0,
+            "votes": 8057,
+            "extra_votes": 8057,
+            "extra_seat": false
+        },
+        {
+            "name": "Write-In",
+            "seats": 0,
+            "votes": 4417,
+            "extra_votes": 4417,
+            "extra_seat": false
+        },
+        {
+            "name": "Republican",
+            "seats": 13,
+            "votes": 2364269,
+            "extra_votes": 3638,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Workers",
+            "seats": 0,
+            "votes": 3615,
+            "extra_votes": 3615,
+            "extra_seat": false
+        },
+        {
+            "name": "Socialist Labor",
+            "seats": 0,
+            "votes": 2422,
+            "extra_votes": 2422,
+            "extra_seat": false
+        },
+        {
+            "name": "U.S. Labor",
+            "seats": 0,
+            "votes": 2018,
+            "extra_votes": 2018,
+            "extra_seat": false
+        },
+        {
+            "name": "Democratic",
+            "seats": 13,
+            "votes": 2271295,
+            "extra_votes": 92251,
+            "extra_seat": true
+        }
+    ],
+    "stats": {
+        "name": "Illinois 1976",
+        "total_seats": 26,
+        "total_votes": 4721282,
+        "gallagher_index": 1.5933478475557863
+    }
+}
