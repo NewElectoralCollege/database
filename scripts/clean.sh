@@ -10,11 +10,3 @@ rm ../data/1988/*.json
 rm ../data/1984/*.json
 rm ../data/1980/*.json
 rm ../data/1976/*.json
-
-cd ../
-
-python -u makeResults.py
-
-cd scripts
-
-sh format.sh
